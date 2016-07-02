@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 7d5b5e15f4242fb4d914de23ce3341d5
+timeCreated: 1464174029
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Face_01_BIND_j
+    100004: L_Elbow_BIND_j
+    100006: L_Hand_BIND_j
+    100008: L_Index_01_BIND_j
+    100010: L_Index_02_BIND_j
+    100012: L_Index_03_BIND_j
+    100014: L_Middle_01_BIND_j
+    100016: L_Middle_02_BIND_j
+    100018: L_Middle_03_BIND_j
+    100020: L_Piston_01_BIND_j
+    100022: L_Piston_02_BIND_j
+    100024: L_Ring_01_BIND_j
+    100026: L_Ring_02_BIND_j
+    100028: L_Ring_03_BIND_j
+    100030: L_Shoulder_BIND_j
+    100032: L_Thumb_01_BIND_j
+    100034: L_Thumb_02_BIND_j
+    100036: L_Wrist_BIND_j
+    100038: R_Elbow_BIND_j
+    100040: R_Hand_BIND_j
+    100042: R_Index_01_BIND_j
+    100044: R_Index_02_BIND_j
+    100046: R_Index_03_BIND_j
+    100048: R_Middle_01_BIND_j
+    100050: R_Middle_02_BIND_j
+    100052: R_Middle_03_BIND_j
+    100054: R_Piston_01_BIND_j
+    100056: R_Piston_02_BIND_j
+    100058: R_Ring_01_BIND_j
+    100060: R_Ring_02_BIND_j
+    100062: R_Ring_03_BIND_j
+    100064: R_Shoulder_BIND_j
+    100066: R_Thumb_01_BIND_j
+    100068: R_Thumb_02_BIND_j
+    100070: R_Wrist_BIND_j
+    100072: Root_j
+    100074: SK_Enemy_Melee
+    400000: //RootNode
+    400002: Face_01_BIND_j
+    400004: L_Elbow_BIND_j
+    400006: L_Hand_BIND_j
+    400008: L_Index_01_BIND_j
+    400010: L_Index_02_BIND_j
+    400012: L_Index_03_BIND_j
+    400014: L_Middle_01_BIND_j
+    400016: L_Middle_02_BIND_j
+    400018: L_Middle_03_BIND_j
+    400020: L_Piston_01_BIND_j
+    400022: L_Piston_02_BIND_j
+    400024: L_Ring_01_BIND_j
+    400026: L_Ring_02_BIND_j
+    400028: L_Ring_03_BIND_j
+    400030: L_Shoulder_BIND_j
+    400032: L_Thumb_01_BIND_j
+    400034: L_Thumb_02_BIND_j
+    400036: L_Wrist_BIND_j
+    400038: R_Elbow_BIND_j
+    400040: R_Hand_BIND_j
+    400042: R_Index_01_BIND_j
+    400044: R_Index_02_BIND_j
+    400046: R_Index_03_BIND_j
+    400048: R_Middle_01_BIND_j
+    400050: R_Middle_02_BIND_j
+    400052: R_Middle_03_BIND_j
+    400054: R_Piston_01_BIND_j
+    400056: R_Piston_02_BIND_j
+    400058: R_Ring_01_BIND_j
+    400060: R_Ring_02_BIND_j
+    400062: R_Ring_03_BIND_j
+    400064: R_Shoulder_BIND_j
+    400066: R_Thumb_01_BIND_j
+    400068: R_Thumb_02_BIND_j
+    400070: R_Wrist_BIND_j
+    400072: Root_j
+    400074: SK_Enemy_Melee
+    4300000: SK_Enemy_Melee
+    7400000: _MeleeBot_Run_01
+    9500000: //RootNode
+    13700000: SK_Enemy_Melee
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _MeleeBot_Run_01
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root_j
+        weight: 1
+      - path: Root_j/Face_01_BIND_j
+        weight: 1
+      - path: Root_j/L_Piston_01_BIND_j
+        weight: 1
+      - path: Root_j/L_Piston_01_BIND_j/L_Piston_02_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Index_01_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Index_01_BIND_j/L_Index_02_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Index_01_BIND_j/L_Index_02_BIND_j/L_Index_03_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Middle_01_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Middle_01_BIND_j/L_Middle_02_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Middle_01_BIND_j/L_Middle_02_BIND_j/L_Middle_03_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Ring_01_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Ring_01_BIND_j/L_Ring_02_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Ring_01_BIND_j/L_Ring_02_BIND_j/L_Ring_03_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Thumb_01_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_BIND_j/L_Thumb_01_BIND_j/L_Thumb_02_BIND_j
+        weight: 1
+      - path: Root_j/R_Piston_01_BIND_j
+        weight: 1
+      - path: Root_j/R_Piston_01_BIND_j/R_Piston_02_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Index_01_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Index_01_BIND_j/R_Index_02_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Index_01_BIND_j/R_Index_02_BIND_j/R_Index_03_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Middle_01_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Middle_01_BIND_j/R_Middle_02_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Middle_01_BIND_j/R_Middle_02_BIND_j/R_Middle_03_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Ring_01_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Ring_01_BIND_j/R_Ring_02_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Ring_01_BIND_j/R_Ring_02_BIND_j/R_Ring_03_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Thumb_01_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_BIND_j/R_Thumb_01_BIND_j/R_Thumb_02_BIND_j
+        weight: 1
+      - path: SK_Enemy_Melee
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

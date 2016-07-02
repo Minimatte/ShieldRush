@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: a15451e99ff5e5c4a99a11fc30953b23
+timeCreated: 1464798956
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CTRL_1
+    100002: CTRL_10
+    100004: CTRL_11
+    100006: CTRL_12
+    100008: CTRL_13
+    100010: CTRL_14
+    100012: CTRL_15
+    100014: CTRL_16
+    100016: CTRL_17
+    100018: CTRL_18
+    100020: CTRL_2
+    100022: CTRL_3
+    100024: CTRL_4
+    100026: CTRL_5
+    100028: CTRL_6
+    100030: CTRL_7
+    100032: CTRL_8
+    100034: CTRL_9
+    100036: CTRLS
+    100038: JNTS
+    100040: joint1
+    100042: joint10
+    100044: joint11
+    100046: joint12
+    100048: joint13
+    100050: joint14
+    100052: joint15
+    100054: joint16
+    100056: joint17
+    100058: joint18
+    100060: joint19
+    100062: joint2
+    100064: joint3
+    100066: joint4
+    100068: joint5
+    100070: joint6
+    100072: joint7
+    100074: joint8
+    100076: joint9
+    100078: Mesh1
+    100080: ShieldMesh
+    100082: //RootNode
+    400000: CTRL_1
+    400002: CTRL_10
+    400004: CTRL_11
+    400006: CTRL_12
+    400008: CTRL_13
+    400010: CTRL_14
+    400012: CTRL_15
+    400014: CTRL_16
+    400016: CTRL_17
+    400018: CTRL_18
+    400020: CTRL_2
+    400022: CTRL_3
+    400024: CTRL_4
+    400026: CTRL_5
+    400028: CTRL_6
+    400030: CTRL_7
+    400032: CTRL_8
+    400034: CTRL_9
+    400036: CTRLS
+    400038: JNTS
+    400040: joint1
+    400042: joint10
+    400044: joint11
+    400046: joint12
+    400048: joint13
+    400050: joint14
+    400052: joint15
+    400054: joint16
+    400056: joint17
+    400058: joint18
+    400060: joint19
+    400062: joint2
+    400064: joint3
+    400066: joint4
+    400068: joint5
+    400070: joint6
+    400072: joint7
+    400074: joint8
+    400076: joint9
+    400078: Mesh1
+    400080: ShieldMesh
+    400082: //RootNode
+    4300000: ShieldMesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ShieldMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTRLS
+        weight: 1
+      - path: CTRLS/CTRL_1
+        weight: 1
+      - path: CTRLS/CTRL_2
+        weight: 1
+      - path: CTRLS/CTRL_3
+        weight: 1
+      - path: CTRLS/CTRL_4
+        weight: 1
+      - path: CTRLS/CTRL_5
+        weight: 1
+      - path: CTRLS/CTRL_6
+        weight: 1
+      - path: CTRLS/CTRL_7
+        weight: 1
+      - path: CTRLS/CTRL_8
+        weight: 1
+      - path: CTRLS/CTRL_9
+        weight: 1
+      - path: CTRLS/CTRL_10
+        weight: 1
+      - path: CTRLS/CTRL_11
+        weight: 1
+      - path: CTRLS/CTRL_12
+        weight: 1
+      - path: CTRLS/CTRL_13
+        weight: 1
+      - path: CTRLS/CTRL_14
+        weight: 1
+      - path: CTRLS/CTRL_15
+        weight: 1
+      - path: CTRLS/CTRL_16
+        weight: 1
+      - path: CTRLS/CTRL_17
+        weight: 1
+      - path: CTRLS/CTRL_18
+        weight: 1
+      - path: JNTS
+        weight: 1
+      - path: JNTS/joint1
+        weight: 1
+      - path: JNTS/joint1/joint2
+        weight: 1
+      - path: JNTS/joint1/joint3
+        weight: 1
+      - path: JNTS/joint1/joint4
+        weight: 1
+      - path: JNTS/joint1/joint5
+        weight: 1
+      - path: JNTS/joint1/joint6
+        weight: 1
+      - path: JNTS/joint1/joint7
+        weight: 1
+      - path: JNTS/joint1/joint8
+        weight: 1
+      - path: JNTS/joint1/joint9
+        weight: 1
+      - path: JNTS/joint1/joint10
+        weight: 1
+      - path: JNTS/joint1/joint11
+        weight: 1
+      - path: JNTS/joint1/joint12
+        weight: 1
+      - path: JNTS/joint1/joint13
+        weight: 1
+      - path: JNTS/joint1/joint14
+        weight: 1
+      - path: JNTS/joint1/joint15
+        weight: 1
+      - path: JNTS/joint1/joint16
+        weight: 1
+      - path: JNTS/joint1/joint17
+        weight: 1
+      - path: JNTS/joint1/joint18
+        weight: 1
+      - path: JNTS/joint1/joint19
+        weight: 1
+      - path: Mesh1
+        weight: 1
+      - path: Mesh1/ShieldMesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

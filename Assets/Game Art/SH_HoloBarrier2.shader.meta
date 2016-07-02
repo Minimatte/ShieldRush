@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 55ec672787d6a944293756a8d7c7ab56
+timeCreated: 1465896703
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Noise: {fileID: 2800000, guid: 7b25c74ff29393347b46a238d9982ee6, type: 3}
+  - _TilingTexture3: {fileID: 2800000, guid: bb71e3d31af281e469d427f810cd3308, type: 3}
+  - _TilingTexture_copy: {fileID: 2800000, guid: bb71e3d31af281e469d427f810cd3308,
+      type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

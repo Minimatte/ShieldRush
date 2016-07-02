@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0974918baca74a84f8f161f519d29773
+timeCreated: 1464191247
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - speechBubblePrefab: {fileID: 1000010511513656, guid: 0644c7d5503e5b54984486c14b62e2c2,
+      type: 2}
+  - HappyMoodSprite: {fileID: 21300000, guid: 6dfdb716de435fb4aa5522f49ace4b3e, type: 3}
+  - SadMoodSprite: {fileID: 21300000, guid: 4a67b8269718731499d46fecd3ada31a, type: 3}
+  - PointerMoodSprite: {fileID: 21300000, guid: 2911da47b54c165409cd708ea40f8d79,
+      type: 3}
+  - AngryMoodSprite: {fileID: 21300000, guid: 398262229dee0f644a2704daa503b688, type: 3}
+  - AggressiveMoodSprite: {fileID: 21300000, guid: 2cfb21d991b1ea145b8ad67a8b51e986,
+      type: 3}
+  - BoredMoodSprite: {fileID: 21300000, guid: c1d9e89fbcff6d94e913dc48b398cf12, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

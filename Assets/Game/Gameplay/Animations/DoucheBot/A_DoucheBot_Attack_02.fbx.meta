@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: b785cd83c204c6046a53312acb288899
+timeCreated: 1466338084
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bottom_BIND_j
+    100004: Bottom_CTRL
+    100006: Bottom_CTRL_fixGrp
+    100008: Head_BIND_j
+    100010: Head_CTRL
+    100012: Head_CTRL_fixGrp
+    100014: Head_tip_j
+    100016: IKFK
+    100018: L_ChestPlate_BIND_j
+    100020: L_ChestPlate_tip_j
+    100022: L_Elbow_BIND_j
+    100024: L_Elbow_CTRL
+    100026: L_Elbow_CTRL_fixGrp
+    100028: L_Elbow_FK_j
+    100030: L_Elbow_IK_j
+    100032: L_Fingers_BIND_j
+    100034: L_Fingers_tip_j
+    100036: L_Hand_CTRL
+    100038: L_Hand_CTRL_fixGrp
+    100040: L_Hand_Extra_CTRL
+    100042: L_Hand_j
+    100044: L_Head_Flap_BIND_j
+    100046: L_Head_Flap_tip_j
+    100048: L_Lower_Engine
+    100050: L_Lower_Engine_01_BIND_j
+    100052: L_Lower_Engine_02_BIND_j
+    100054: L_Lower_Engine_fixGrp
+    100056: L_Shoulder_BIND_j
+    100058: L_Shoulder_CTRL
+    100060: L_Shoulder_CTRL_fixGrp
+    100062: L_Shoulder_FK_j
+    100064: L_Shoulder_IK_j
+    100066: L_Thumb_BIND_j
+    100068: L_Thumb_tip_j
+    100070: L_Upper_Engine
+    100072: L_Upper_Engine_01_BIND_j
+    100074: L_Upper_Engine_02_BIND_j
+    100076: L_Upper_Engine_fixGrp
+    100078: L_Wrist_BIND_j
+    100080: L_Wrist_CTRL
+    100082: L_Wrist_CTRL_fixGrp
+    100084: L_Wrist_FK_j
+    100086: L_Wrist_IK_j
+    100088: Neck_BIND_j
+    100090: R_ChestPlate_BIND_j
+    100092: R_ChestPlate_tip_j
+    100094: R_Elbow_BIND_j
+    100096: R_Elbow_CTRL
+    100098: R_Elbow_CTRL_fixGrp
+    100100: R_Elbow_FK_j
+    100102: R_Elbow_IK_j
+    100104: R_Fingers_BIND_j
+    100106: R_Fingers_tip_j
+    100108: R_Hand_CTRL
+    100110: R_Hand_CTRL_fixGrp
+    100112: R_Hand_Extra_CTRL
+    100114: R_Hand_j
+    100116: R_Head_Flap_BIND_j
+    100118: R_Head_Flap_tip_j
+    100120: R_Lower_Engine
+    100122: R_Lower_Engine_fixGrp
+    100124: R_Rower_Engine_01_BIND_j
+    100126: R_Rower_Engine_02_BIND_j
+    100128: R_Shoulder_BIND_j
+    100130: R_Shoulder_CTRL
+    100132: R_Shoulder_CTRL_fixGrp
+    100134: R_Shoulder_FK_j
+    100136: R_Shoulder_IK_j
+    100138: R_Thumb_BIND_j
+    100140: R_Thumb_tip_j
+    100142: R_Upper_Engine
+    100144: R_Upper_Engine_01_BIND_j
+    100146: R_Upper_Engine_02_BIND_j
+    100148: R_Upper_Engine_fixGrp
+    100150: R_Wrist_BIND_j
+    100152: R_Wrist_CTRL
+    100154: R_Wrist_CTRL_fixGrp
+    100156: R_Wrist_FK_j
+    100158: R_Wrist_IK_j
+    100160: Root_CTRL
+    100162: Root_j
+    400000: //RootNode
+    400002: Bottom_BIND_j
+    400004: Bottom_CTRL
+    400006: Bottom_CTRL_fixGrp
+    400008: Head_BIND_j
+    400010: Head_CTRL
+    400012: Head_CTRL_fixGrp
+    400014: Head_tip_j
+    400016: IKFK
+    400018: L_ChestPlate_BIND_j
+    400020: L_ChestPlate_tip_j
+    400022: L_Elbow_BIND_j
+    400024: L_Elbow_CTRL
+    400026: L_Elbow_CTRL_fixGrp
+    400028: L_Elbow_FK_j
+    400030: L_Elbow_IK_j
+    400032: L_Fingers_BIND_j
+    400034: L_Fingers_tip_j
+    400036: L_Hand_CTRL
+    400038: L_Hand_CTRL_fixGrp
+    400040: L_Hand_Extra_CTRL
+    400042: L_Hand_j
+    400044: L_Head_Flap_BIND_j
+    400046: L_Head_Flap_tip_j
+    400048: L_Lower_Engine
+    400050: L_Lower_Engine_01_BIND_j
+    400052: L_Lower_Engine_02_BIND_j
+    400054: L_Lower_Engine_fixGrp
+    400056: L_Shoulder_BIND_j
+    400058: L_Shoulder_CTRL
+    400060: L_Shoulder_CTRL_fixGrp
+    400062: L_Shoulder_FK_j
+    400064: L_Shoulder_IK_j
+    400066: L_Thumb_BIND_j
+    400068: L_Thumb_tip_j
+    400070: L_Upper_Engine
+    400072: L_Upper_Engine_01_BIND_j
+    400074: L_Upper_Engine_02_BIND_j
+    400076: L_Upper_Engine_fixGrp
+    400078: L_Wrist_BIND_j
+    400080: L_Wrist_CTRL
+    400082: L_Wrist_CTRL_fixGrp
+    400084: L_Wrist_FK_j
+    400086: L_Wrist_IK_j
+    400088: Neck_BIND_j
+    400090: R_ChestPlate_BIND_j
+    400092: R_ChestPlate_tip_j
+    400094: R_Elbow_BIND_j
+    400096: R_Elbow_CTRL
+    400098: R_Elbow_CTRL_fixGrp
+    400100: R_Elbow_FK_j
+    400102: R_Elbow_IK_j
+    400104: R_Fingers_BIND_j
+    400106: R_Fingers_tip_j
+    400108: R_Hand_CTRL
+    400110: R_Hand_CTRL_fixGrp
+    400112: R_Hand_Extra_CTRL
+    400114: R_Hand_j
+    400116: R_Head_Flap_BIND_j
+    400118: R_Head_Flap_tip_j
+    400120: R_Lower_Engine
+    400122: R_Lower_Engine_fixGrp
+    400124: R_Rower_Engine_01_BIND_j
+    400126: R_Rower_Engine_02_BIND_j
+    400128: R_Shoulder_BIND_j
+    400130: R_Shoulder_CTRL
+    400132: R_Shoulder_CTRL_fixGrp
+    400134: R_Shoulder_FK_j
+    400136: R_Shoulder_IK_j
+    400138: R_Thumb_BIND_j
+    400140: R_Thumb_tip_j
+    400142: R_Upper_Engine
+    400144: R_Upper_Engine_01_BIND_j
+    400146: R_Upper_Engine_02_BIND_j
+    400148: R_Upper_Engine_fixGrp
+    400150: R_Wrist_BIND_j
+    400152: R_Wrist_CTRL
+    400154: R_Wrist_CTRL_fixGrp
+    400156: R_Wrist_FK_j
+    400158: R_Wrist_IK_j
+    400160: Root_CTRL
+    400162: Root_j
+    7400000: Attack12
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack12
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: IKFK
+        weight: 1
+      - path: IKFK/L_Shoulder_FK_j
+        weight: 1
+      - path: IKFK/L_Shoulder_FK_j/L_Elbow_FK_j
+        weight: 1
+      - path: IKFK/L_Shoulder_FK_j/L_Elbow_FK_j/L_Wrist_FK_j
+        weight: 1
+      - path: IKFK/L_Shoulder_IK_j
+        weight: 1
+      - path: IKFK/L_Shoulder_IK_j/L_Elbow_IK_j
+        weight: 1
+      - path: IKFK/L_Shoulder_IK_j/L_Elbow_IK_j/L_Wrist_IK_j
+        weight: 1
+      - path: IKFK/R_Shoulder_FK_j
+        weight: 1
+      - path: IKFK/R_Shoulder_FK_j/R_Elbow_FK_j
+        weight: 1
+      - path: IKFK/R_Shoulder_FK_j/R_Elbow_FK_j/R_Wrist_FK_j
+        weight: 1
+      - path: IKFK/R_Shoulder_IK_j
+        weight: 1
+      - path: IKFK/R_Shoulder_IK_j/R_Elbow_IK_j
+        weight: 1
+      - path: IKFK/R_Shoulder_IK_j/R_Elbow_IK_j/R_Wrist_IK_j
+        weight: 1
+      - path: L_Hand_CTRL_fixGrp
+        weight: 1
+      - path: L_Hand_CTRL_fixGrp/L_Hand_CTRL
+        weight: 1
+      - path: L_Hand_Extra_CTRL
+        weight: 1
+      - path: R_Hand_CTRL_fixGrp
+        weight: 1
+      - path: R_Hand_CTRL_fixGrp/R_Hand_CTRL
+        weight: 1
+      - path: R_Hand_Extra_CTRL
+        weight: 1
+      - path: Root_CTRL
+        weight: 1
+      - path: Root_CTRL/Bottom_CTRL_fixGrp
+        weight: 1
+      - path: Root_CTRL/Bottom_CTRL_fixGrp/Bottom_CTRL
+        weight: 1
+      - path: Root_CTRL/Head_CTRL_fixGrp
+        weight: 1
+      - path: Root_CTRL/Head_CTRL_fixGrp/Head_CTRL
+        weight: 1
+      - path: Root_CTRL/L_Lower_Engine_fixGrp
+        weight: 1
+      - path: Root_CTRL/L_Lower_Engine_fixGrp/L_Lower_Engine
+        weight: 1
+      - path: Root_CTRL/L_Shoulder_CTRL_fixGrp
+        weight: 1
+      - path: Root_CTRL/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL
+        weight: 1
+      - path: Root_CTRL/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL/L_Elbow_CTRL_fixGrp
+        weight: 1
+      - path: Root_CTRL/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL/L_Elbow_CTRL_fixGrp/L_Elbow_CTRL
+        weight: 1
+      - path: Root_CTRL/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL/L_Elbow_CTRL_fixGrp/L_Elbow_CTRL/L_Wrist_CTRL_fixGrp
+        weight: 1
+      - path: Root_CTRL/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL/L_Elbow_CTRL_fixGrp/L_Elbow_CTRL/L_Wrist_CTRL_fixGrp/L_Wrist_CTRL
+        weight: 1
+      - path: Root_CTRL/L_Upper_Engine_fixGrp
+        weight: 1
+      - path: Root_CTRL/L_Upper_Engine_fixGrp/L_Upper_Engine
+        weight: 1
+      - path: Root_CTRL/R_Lower_Engine_fixGrp
+        weight: 1
+      - path: Root_CTRL/R_Lower_Engine_fixGrp/R_Lower_Engine
+        weight: 1
+      - path: Root_CTRL/R_Shoulder_CTRL_fixGrp
+        weight: 1
+      - path: Root_CTRL/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL
+        weight: 1
+      - path: Root_CTRL/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL/R_Elbow_CTRL_fixGrp
+        weight: 1
+      - path: Root_CTRL/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL/R_Elbow_CTRL_fixGrp/R_Elbow_CTRL
+        weight: 1
+      - path: Root_CTRL/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL/R_Elbow_CTRL_fixGrp/R_Elbow_CTRL/R_Wrist_CTRL_fixGrp
+        weight: 1
+      - path: Root_CTRL/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL/R_Elbow_CTRL_fixGrp/R_Elbow_CTRL/R_Wrist_CTRL_fixGrp/R_Wrist_CTRL
+        weight: 1
+      - path: Root_CTRL/R_Upper_Engine_fixGrp
+        weight: 1
+      - path: Root_CTRL/R_Upper_Engine_fixGrp/R_Upper_Engine
+        weight: 1
+      - path: Root_j
+        weight: 1
+      - path: Root_j/Bottom_BIND_j
+        weight: 1
+      - path: Root_j/L_ChestPlate_BIND_j
+        weight: 1
+      - path: Root_j/L_ChestPlate_BIND_j/L_ChestPlate_tip_j
+        weight: 1
+      - path: Root_j/L_Lower_Engine_01_BIND_j
+        weight: 1
+      - path: Root_j/L_Lower_Engine_01_BIND_j/L_Lower_Engine_02_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Fingers_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Fingers_BIND_j/L_Fingers_tip_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Thumb_BIND_j
+        weight: 1
+      - path: Root_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Thumb_BIND_j/L_Thumb_tip_j
+        weight: 1
+      - path: Root_j/L_Upper_Engine_01_BIND_j
+        weight: 1
+      - path: Root_j/L_Upper_Engine_01_BIND_j/L_Upper_Engine_02_BIND_j
+        weight: 1
+      - path: Root_j/Neck_BIND_j
+        weight: 1
+      - path: Root_j/Neck_BIND_j/Head_BIND_j
+        weight: 1
+      - path: Root_j/Neck_BIND_j/Head_BIND_j/Head_tip_j
+        weight: 1
+      - path: Root_j/Neck_BIND_j/L_Head_Flap_BIND_j
+        weight: 1
+      - path: Root_j/Neck_BIND_j/L_Head_Flap_BIND_j/L_Head_Flap_tip_j
+        weight: 1
+      - path: Root_j/Neck_BIND_j/R_Head_Flap_BIND_j
+        weight: 1
+      - path: Root_j/Neck_BIND_j/R_Head_Flap_BIND_j/R_Head_Flap_tip_j
+        weight: 1
+      - path: Root_j/R_ChestPlate_BIND_j
+        weight: 1
+      - path: Root_j/R_ChestPlate_BIND_j/R_ChestPlate_tip_j
+        weight: 1
+      - path: Root_j/R_Rower_Engine_01_BIND_j
+        weight: 1
+      - path: Root_j/R_Rower_Engine_01_BIND_j/R_Rower_Engine_02_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Fingers_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Fingers_BIND_j/R_Fingers_tip_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Thumb_BIND_j
+        weight: 1
+      - path: Root_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Thumb_BIND_j/R_Thumb_tip_j
+        weight: 1
+      - path: Root_j/R_Upper_Engine_01_BIND_j
+        weight: 1
+      - path: Root_j/R_Upper_Engine_01_BIND_j/R_Upper_Engine_02_BIND_j
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 953dfd880cd20ba4c9ff5318bbdaa7f2,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

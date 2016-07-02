@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 68b89c39c3dbb7b4db4143fc08498950
+timeCreated: 1464193700
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - owner: {instanceID: 0}
+  - imapctEffectParticlePrefab: {fileID: 1000012269426878, guid: 768ba668e9f272c48a1017f738b3377a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

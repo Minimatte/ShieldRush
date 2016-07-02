@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 41b4f014ace8e864284e1e5cbaa56507
+timeCreated: 1466099231
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - playerAnimator: {instanceID: 0}
+  - companionAnimator: {instanceID: 0}
+  - bigRobotAnimator: {instanceID: 0}
+  - cinematicTicketBoss: {instanceID: 0}
+  - cinematicTicketPlayer: {instanceID: 0}
+  - shieldCinematic: {instanceID: 0}
+  - spawnPosition: {instanceID: 0}
+  - player: {instanceID: 0}
+  - cinematicPlayerReference: {instanceID: 0}
+  - cinematicCompanionReference: {instanceID: 0}
+  - mainCameraPrefab: {instanceID: 0}
+  - GameControllerScene: {fileID: 102900000, guid: 1a765e192087506458ed3ac6e5bb7f65,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

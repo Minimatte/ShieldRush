@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 59c695d1db9111b41abf1de1d3164c54
+timeCreated: 1464011467
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - EMPProjectile: {fileID: 1000013472064588, guid: 4f4f4247afd48dd4f8824f70d7229b07,
+      type: 2}
+  - spawnPoint: {instanceID: 0}
+  - slamGroundEffect: {fileID: 1000013506758384, guid: 52b01efcce6afd34ab82bb577e957f04,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

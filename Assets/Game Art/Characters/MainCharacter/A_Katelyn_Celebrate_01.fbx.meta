@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: c1810f005a58c7d44ae56ca183f50915
+timeCreated: 1466184124
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ahoga_01_BIND_j
+    100004: Ahoga_02_BIND_j
+    100006: Ahoga_tip_j
+    100008: Ahoge_01_CTRL
+    100010: Ahoge_01_CTRl_fixGrp
+    100012: Ahoge_02_CTRL
+    100014: Ahoge_02_CTRL_fixGrp
+    100016: Chest_BIND_j
+    100018: Chest_CTRL
+    100020: Chest_CTRL_fixGrp
+    100022: Face_Collector_j
+    100024: Front_Flap_BIND_j
+    100026: Front_Flap_tip_j
+    100028: Hand_Extra_CTRLs
+    100030: Head_BIND_j
+    100032: Head_CTRL
+    100034: Head_CTRL_fixGrp
+    100036: Hip_CTRL
+    100038: L_Ankle_BIND_j
+    100040: L_Ball_Bind_j
+    100042: L_Bang_01_BIND_j
+    100044: L_Bang_01_CTRL
+    100046: L_Bang_01_CTRL_fixGrp
+    100048: L_Bang_02_BIND_j
+    100050: L_Bang_02_CTRL
+    100052: L_Bang_02_CTRL_fixGrp
+    100054: L_Bang_03_BIND_j
+    100056: L_Bang_03_CTRL
+    100058: L_Bang_03_CTRL_fixGrp
+    100060: L_Bang_tip_j
+    100062: L_Clavicle_BIND_j
+    100064: L_Clavicle_CTRL
+    100066: L_Clavicle_CTRL_fixGrp
+    100068: L_Elbow_BIND_j
+    100070: L_Elbow_CTRL
+    100072: L_Elbow_CTRL_fixGrp
+    100074: L_Elbow_FK_j
+    100076: L_Elbow_IK_j
+    100078: L_Fingers
+    100080: L_Flap_01_BIND_j
+    100082: L_Flap_02_BIND_j
+    100084: L_Flap_03_BIND_j
+    100086: L_Flap_CTRL
+    100088: L_Flap_CTRL_fixGrp
+    100090: L_Flap_tip_j
+    100092: L_Front_Dress_01_BIND_j
+    100094: L_Front_Dress_02_BIND_j
+    100096: L_Front_Dress_03_BIND_j
+    100098: L_Front_Dress_Base_j
+    100100: L_Front_Dress_tip_j
+    100102: L_Hair_01_BIND_j
+    100104: L_Hair_01_CTRL
+    100106: L_Hair_01_CTRL_fixGrp
+    100108: L_Hair_02_BIND_j
+    100110: L_Hair_02_CTRL
+    100112: L_Hair_02_CTRL_fixGrp
+    100114: L_Hair_tip_j
+    100116: L_Hand_CTRL
+    100118: L_Hand_Extra
+    100120: L_Hand_Extra_CTRL
+    100122: L_Hand_j
+    100124: L_Hind_Dress_01_BIND_j
+    100126: L_Hind_Dress_02_BIND_j
+    100128: L_Hind_Dress_03_BIND_j
+    100130: L_Hind_Dress_Base_j
+    100132: L_Hind_Dress_tip_j
+    100134: L_Hip_BIND_j
+    100136: L_IKFK
+    100138: L_Index_01_BIND_j
+    100140: L_Index_01_CTRL
+    100142: L_Index_01_CTRL_fixGrp
+    100144: L_Index_01_CTRL_rotGrp
+    100146: L_Index_02_BIND_j
+    100148: L_Index_02_CTRL
+    100150: L_Index_02_CTRL_fixGrp
+    100152: L_Index_02_CTRL_rotGrp
+    100154: L_Index_tip_j
+    100156: L_Knee_BIND_j
+    100158: L_Middle_01_BIND_j
+    100160: L_Middle_01_CTRL
+    100162: L_Middle_01_CTRL_fixGrp
+    100164: L_Middle_01_CTRL_rotGrp
+    100166: L_Middle_02_BIND_j
+    100168: L_Middle_02_CTRL
+    100170: L_Middle_02_CTRL_fixGrp
+    100172: L_Middle_02_CTRL_rotGrp
+    100174: L_Middle_tip_j
+    100176: L_Pinky_01_BIND_j
+    100178: L_Pinky_01_CTRL
+    100180: L_Pinky_01_CTRL_fixGrp
+    100182: L_Pinky_01_CTRL_rotGrp
+    100184: L_Pinky_02_BIND_j
+    100186: L_Pinky_02_CTRL
+    100188: L_Pinky_02_CTRL_fixGrp
+    100190: L_Pinky_02_CTRL_rotGrp
+    100192: L_Pinky_tip_j
+    100194: L_Ribbon_00_j
+    100196: L_Ribbon_01_BIND_j
+    100198: L_Ribbon_02_BIND_j
+    100200: L_Ribbon_03_BIND_j
+    100202: L_Ribbon_04_BIND_j
+    100204: L_Ribbon_05_BIND_j
+    100206: L_Ribbon_tip_j
+    100208: L_Ring_01_BIND_j
+    100210: L_Ring_01_CTRL
+    100212: L_Ring_01_CTRL_fixGrp
+    100214: L_Ring_01_CTRL_rotGrp
+    100216: L_Ring_02_BIND_j
+    100218: L_Ring_02_CTRL
+    100220: L_Ring_02_CTRL_fixGrp
+    100222: L_Ring_02_CTRL_rotGrp
+    100224: L_Ring_tip_j
+    100226: L_Shoulder_BIND_j
+    100228: L_Shoulder_CTRL
+    100230: L_Shoulder_CTRL_fixGrp
+    100232: L_Shoulder_FK_j
+    100234: L_Shoulder_IK_j
+    100236: L_Thumb_01_BIND_j
+    100238: L_Thumb_01_CTRL
+    100240: L_Thumb_01_CTRL_fixGrp
+    100242: L_Thumb_01_CTRL_rotGrp
+    100244: L_Thumb_02_BIND_j
+    100246: L_Thumb_02_CTRL
+    100248: L_Thumb_02_CTRL_fixGrp
+    100250: L_Thumb_02_CTRL_rotGrp
+    100252: L_Thumb_tip_j
+    100254: L_Toe_Bind_j
+    100256: L_Wrist_BIND_j
+    100258: L_Wrist_CTRL
+    100260: L_Wrist_CTRL_fixGrp
+    100262: L_Wrist_FK_j
+    100264: L_Wrist_IK_j
+    100266: Mid_Bang_01_BIND_j
+    100268: Mid_Bang_02_BIND_j
+    100270: Mid_Bang_03_BIND_j
+    100272: Mid_Bang_04_BIND_j
+    100274: Mid_Bang_CTRL
+    100276: Mid_Bang_CTRL_fixGrp
+    100278: Mid_Bang_tip_j
+    100280: Neck_BIND_j
+    100282: Neck_CTRL
+    100284: Neck_CTRL_fixGrp
+    100286: R_Ankle_BIND_j
+    100288: R_Ball_Bind_j
+    100290: R_Bang_01_BIND_j
+    100292: R_Bang_01_CTRL
+    100294: R_Bang_01_CTRL_fixGrp
+    100296: R_Bang_02_BIND_j
+    100298: R_Bang_02_CTRL
+    100300: R_Bang_02_CTRL_fixGrp
+    100302: R_Bang_03_BIND_j
+    100304: R_Bang_03_CTRL
+    100306: R_Bang_03_CTRL_gixGrp
+    100308: R_Bang_tip_j
+    100310: R_Clavicle_BIND_j
+    100312: R_Clavicle_CTRL
+    100314: R_Clavicle_CTRL_fixGrp
+    100316: R_Elbow_BIND_j
+    100318: R_Elbow_CTRL
+    100320: R_Elbow_CTRL_fixGrp
+    100322: R_Elbow_FK_j
+    100324: R_Elbow_IK_j
+    100326: R_Fingers
+    100328: R_Flap_01_BIND_j
+    100330: R_Flap_02_BIND_j
+    100332: R_Flap_03_BIND_j
+    100334: R_Flap_CTRL
+    100336: R_Flap_CTRL_fixGrp
+    100338: R_Flap_tip_j
+    100340: R_Front_Dress_01_BIND_j
+    100342: R_Front_Dress_02_BIND_j
+    100344: R_Front_Dress_03_BIND_j
+    100346: R_Front_Dress_Base_j
+    100348: R_Front_Dress_tip_j
+    100350: R_Hair_01_BIND_j
+    100352: R_Hair_01_CTRL
+    100354: R_Hair_01_CTRL_fixGrp
+    100356: R_Hair_02_BIND_j
+    100358: R_Hair_02_CTRL
+    100360: R_Hair_02_CTRL_fixGrp
+    100362: R_Hair_tip_j
+    100364: R_Hand_ctGRP
+    100366: R_Hand_CTRL
+    100368: R_Hand_Extra
+    100370: R_Hand_Extra_CTRL
+    100372: R_Hand_j
+    100374: R_Hind_Dress_01_BIND_j
+    100376: R_Hind_Dress_02_BIND_j
+    100378: R_Hind_Dress_03_BIND_j
+    100380: R_Hind_Dress_Base_j
+    100382: R_Hind_Dress_tip_j
+    100384: R_Hip_BIND_j
+    100386: R_IKFK
+    100388: R_Index_01_BIND_j
+    100390: R_Index_01_CTRL
+    100392: R_Index_01_CTRL_fixGrp
+    100394: R_Index_01_CTRL_rotGrp
+    100396: R_Index_02_BIND_j
+    100398: R_Index_02_CTRL
+    100400: R_Index_02_CTRL_fixGrp
+    100402: R_Index_02_CTRL_rotGrp
+    100404: R_Index_tip_j
+    100406: R_Knee_BIND_j
+    100408: R_Middle_01_BIND_j
+    100410: R_Middle_01_CTRL
+    100412: R_Middle_01_CTRL_fixGrp
+    100414: R_Middle_01_CTRL_rotGrp
+    100416: R_Middle_02_BIND_j
+    100418: R_Middle_02_CTRL
+    100420: R_Middle_02_CTRL_fixGrp
+    100422: R_Middle_02_CTRL_rotGrp
+    100424: R_Middle_tip_j
+    100426: R_Pinky_01_BIND_j
+    100428: R_Pinky_01_CTRL
+    100430: R_Pinky_01_CTRL_fixGrp
+    100432: R_Pinky_01_CTRL_rotGrp
+    100434: R_Pinky_02_BIND_j
+    100436: R_Pinky_02_CTRL
+    100438: R_Pinky_02_CTRL_fixGrp
+    100440: R_Pinky_02_CTRL_rotGrp
+    100442: R_Pinky_tip_j
+    100444: R_Ribbon_00_j
+    100446: R_Ribbon_01_BIND_j
+    100448: R_Ribbon_02_BIND_j
+    100450: R_Ribbon_03_BIND_j
+    100452: R_Ribbon_04_BIND_j
+    100454: R_Ribbon_05_BIND_j
+    100456: R_Ribbon_06_BIND_j
+    100458: R_Ribbon_07_BIND_j
+    100460: R_Ribbon_tip_j
+    100462: R_Ring_01_BIND_j
+    100464: R_Ring_01_CTRL
+    100466: R_Ring_01_CTRL_fixGrp
+    100468: R_Ring_01_CTRL_rotGrp
+    100470: R_Ring_02_BIND_j
+    100472: R_Ring_02_CTRL
+    100474: R_Ring_02_CTRL_fixGrp
+    100476: R_Ring_02_CTRL_rotGrp
+    100478: R_Ring_tip_j
+    100480: R_Shoulder_BIND_j
+    100482: R_Shoulder_CTRL
+    100484: R_Shoulder_CTRL_fixGrp
+    100486: R_Shoulder_FK_j
+    100488: R_Shoulder_IK_j
+    100490: R_Thumb_01_BIND_j
+    100492: R_Thumb_01_CTRL
+    100494: R_Thumb_01_CTRL_fixGrp
+    100496: R_Thumb_01_CTRL_rotGrp
+    100498: R_Thumb_02_BIND_j
+    100500: R_Thumb_02_CTRL
+    100502: R_Thumb_02_CTRL_fixGrp
+    100504: R_Thumb_02_CTRL_rotGrp
+    100506: R_Thumb_tip_j
+    100508: R_Toe_Bind_j
+    100510: R_Wrist_BIND_j
+    100512: R_Wrist_CTRL
+    100514: R_Wrist_CTRL_fixGrp
+    100516: R_Wrist_FK_j
+    100518: R_Wrist_IK_j
+    100520: Ribbon_Base_BIND_j
+    100522: Root_BIND_j
+    100524: Spine_01_BIND_j
+    100526: Spine_01_CTRL
+    100528: Spine_01_CTRL_fixGrp
+    100530: Spine_02_BIND_j
+    100532: Spine_02_CTRL
+    100534: Spine_02_CTRL_fixGrp
+    100536: Spine_03_BIND_j
+    100538: Spine_03_CTRL
+    100540: Spine_03_CTRL_fixGrp
+    400000: //RootNode
+    400002: Ahoga_01_BIND_j
+    400004: Ahoga_02_BIND_j
+    400006: Ahoga_tip_j
+    400008: Ahoge_01_CTRL
+    400010: Ahoge_01_CTRl_fixGrp
+    400012: Ahoge_02_CTRL
+    400014: Ahoge_02_CTRL_fixGrp
+    400016: Chest_BIND_j
+    400018: Chest_CTRL
+    400020: Chest_CTRL_fixGrp
+    400022: Face_Collector_j
+    400024: Front_Flap_BIND_j
+    400026: Front_Flap_tip_j
+    400028: Hand_Extra_CTRLs
+    400030: Head_BIND_j
+    400032: Head_CTRL
+    400034: Head_CTRL_fixGrp
+    400036: Hip_CTRL
+    400038: L_Ankle_BIND_j
+    400040: L_Ball_Bind_j
+    400042: L_Bang_01_BIND_j
+    400044: L_Bang_01_CTRL
+    400046: L_Bang_01_CTRL_fixGrp
+    400048: L_Bang_02_BIND_j
+    400050: L_Bang_02_CTRL
+    400052: L_Bang_02_CTRL_fixGrp
+    400054: L_Bang_03_BIND_j
+    400056: L_Bang_03_CTRL
+    400058: L_Bang_03_CTRL_fixGrp
+    400060: L_Bang_tip_j
+    400062: L_Clavicle_BIND_j
+    400064: L_Clavicle_CTRL
+    400066: L_Clavicle_CTRL_fixGrp
+    400068: L_Elbow_BIND_j
+    400070: L_Elbow_CTRL
+    400072: L_Elbow_CTRL_fixGrp
+    400074: L_Elbow_FK_j
+    400076: L_Elbow_IK_j
+    400078: L_Fingers
+    400080: L_Flap_01_BIND_j
+    400082: L_Flap_02_BIND_j
+    400084: L_Flap_03_BIND_j
+    400086: L_Flap_CTRL
+    400088: L_Flap_CTRL_fixGrp
+    400090: L_Flap_tip_j
+    400092: L_Front_Dress_01_BIND_j
+    400094: L_Front_Dress_02_BIND_j
+    400096: L_Front_Dress_03_BIND_j
+    400098: L_Front_Dress_Base_j
+    400100: L_Front_Dress_tip_j
+    400102: L_Hair_01_BIND_j
+    400104: L_Hair_01_CTRL
+    400106: L_Hair_01_CTRL_fixGrp
+    400108: L_Hair_02_BIND_j
+    400110: L_Hair_02_CTRL
+    400112: L_Hair_02_CTRL_fixGrp
+    400114: L_Hair_tip_j
+    400116: L_Hand_CTRL
+    400118: L_Hand_Extra
+    400120: L_Hand_Extra_CTRL
+    400122: L_Hand_j
+    400124: L_Hind_Dress_01_BIND_j
+    400126: L_Hind_Dress_02_BIND_j
+    400128: L_Hind_Dress_03_BIND_j
+    400130: L_Hind_Dress_Base_j
+    400132: L_Hind_Dress_tip_j
+    400134: L_Hip_BIND_j
+    400136: L_IKFK
+    400138: L_Index_01_BIND_j
+    400140: L_Index_01_CTRL
+    400142: L_Index_01_CTRL_fixGrp
+    400144: L_Index_01_CTRL_rotGrp
+    400146: L_Index_02_BIND_j
+    400148: L_Index_02_CTRL
+    400150: L_Index_02_CTRL_fixGrp
+    400152: L_Index_02_CTRL_rotGrp
+    400154: L_Index_tip_j
+    400156: L_Knee_BIND_j
+    400158: L_Middle_01_BIND_j
+    400160: L_Middle_01_CTRL
+    400162: L_Middle_01_CTRL_fixGrp
+    400164: L_Middle_01_CTRL_rotGrp
+    400166: L_Middle_02_BIND_j
+    400168: L_Middle_02_CTRL
+    400170: L_Middle_02_CTRL_fixGrp
+    400172: L_Middle_02_CTRL_rotGrp
+    400174: L_Middle_tip_j
+    400176: L_Pinky_01_BIND_j
+    400178: L_Pinky_01_CTRL
+    400180: L_Pinky_01_CTRL_fixGrp
+    400182: L_Pinky_01_CTRL_rotGrp
+    400184: L_Pinky_02_BIND_j
+    400186: L_Pinky_02_CTRL
+    400188: L_Pinky_02_CTRL_fixGrp
+    400190: L_Pinky_02_CTRL_rotGrp
+    400192: L_Pinky_tip_j
+    400194: L_Ribbon_00_j
+    400196: L_Ribbon_01_BIND_j
+    400198: L_Ribbon_02_BIND_j
+    400200: L_Ribbon_03_BIND_j
+    400202: L_Ribbon_04_BIND_j
+    400204: L_Ribbon_05_BIND_j
+    400206: L_Ribbon_tip_j
+    400208: L_Ring_01_BIND_j
+    400210: L_Ring_01_CTRL
+    400212: L_Ring_01_CTRL_fixGrp
+    400214: L_Ring_01_CTRL_rotGrp
+    400216: L_Ring_02_BIND_j
+    400218: L_Ring_02_CTRL
+    400220: L_Ring_02_CTRL_fixGrp
+    400222: L_Ring_02_CTRL_rotGrp
+    400224: L_Ring_tip_j
+    400226: L_Shoulder_BIND_j
+    400228: L_Shoulder_CTRL
+    400230: L_Shoulder_CTRL_fixGrp
+    400232: L_Shoulder_FK_j
+    400234: L_Shoulder_IK_j
+    400236: L_Thumb_01_BIND_j
+    400238: L_Thumb_01_CTRL
+    400240: L_Thumb_01_CTRL_fixGrp
+    400242: L_Thumb_01_CTRL_rotGrp
+    400244: L_Thumb_02_BIND_j
+    400246: L_Thumb_02_CTRL
+    400248: L_Thumb_02_CTRL_fixGrp
+    400250: L_Thumb_02_CTRL_rotGrp
+    400252: L_Thumb_tip_j
+    400254: L_Toe_Bind_j
+    400256: L_Wrist_BIND_j
+    400258: L_Wrist_CTRL
+    400260: L_Wrist_CTRL_fixGrp
+    400262: L_Wrist_FK_j
+    400264: L_Wrist_IK_j
+    400266: Mid_Bang_01_BIND_j
+    400268: Mid_Bang_02_BIND_j
+    400270: Mid_Bang_03_BIND_j
+    400272: Mid_Bang_04_BIND_j
+    400274: Mid_Bang_CTRL
+    400276: Mid_Bang_CTRL_fixGrp
+    400278: Mid_Bang_tip_j
+    400280: Neck_BIND_j
+    400282: Neck_CTRL
+    400284: Neck_CTRL_fixGrp
+    400286: R_Ankle_BIND_j
+    400288: R_Ball_Bind_j
+    400290: R_Bang_01_BIND_j
+    400292: R_Bang_01_CTRL
+    400294: R_Bang_01_CTRL_fixGrp
+    400296: R_Bang_02_BIND_j
+    400298: R_Bang_02_CTRL
+    400300: R_Bang_02_CTRL_fixGrp
+    400302: R_Bang_03_BIND_j
+    400304: R_Bang_03_CTRL
+    400306: R_Bang_03_CTRL_gixGrp
+    400308: R_Bang_tip_j
+    400310: R_Clavicle_BIND_j
+    400312: R_Clavicle_CTRL
+    400314: R_Clavicle_CTRL_fixGrp
+    400316: R_Elbow_BIND_j
+    400318: R_Elbow_CTRL
+    400320: R_Elbow_CTRL_fixGrp
+    400322: R_Elbow_FK_j
+    400324: R_Elbow_IK_j
+    400326: R_Fingers
+    400328: R_Flap_01_BIND_j
+    400330: R_Flap_02_BIND_j
+    400332: R_Flap_03_BIND_j
+    400334: R_Flap_CTRL
+    400336: R_Flap_CTRL_fixGrp
+    400338: R_Flap_tip_j
+    400340: R_Front_Dress_01_BIND_j
+    400342: R_Front_Dress_02_BIND_j
+    400344: R_Front_Dress_03_BIND_j
+    400346: R_Front_Dress_Base_j
+    400348: R_Front_Dress_tip_j
+    400350: R_Hair_01_BIND_j
+    400352: R_Hair_01_CTRL
+    400354: R_Hair_01_CTRL_fixGrp
+    400356: R_Hair_02_BIND_j
+    400358: R_Hair_02_CTRL
+    400360: R_Hair_02_CTRL_fixGrp
+    400362: R_Hair_tip_j
+    400364: R_Hand_ctGRP
+    400366: R_Hand_CTRL
+    400368: R_Hand_Extra
+    400370: R_Hand_Extra_CTRL
+    400372: R_Hand_j
+    400374: R_Hind_Dress_01_BIND_j
+    400376: R_Hind_Dress_02_BIND_j
+    400378: R_Hind_Dress_03_BIND_j
+    400380: R_Hind_Dress_Base_j
+    400382: R_Hind_Dress_tip_j
+    400384: R_Hip_BIND_j
+    400386: R_IKFK
+    400388: R_Index_01_BIND_j
+    400390: R_Index_01_CTRL
+    400392: R_Index_01_CTRL_fixGrp
+    400394: R_Index_01_CTRL_rotGrp
+    400396: R_Index_02_BIND_j
+    400398: R_Index_02_CTRL
+    400400: R_Index_02_CTRL_fixGrp
+    400402: R_Index_02_CTRL_rotGrp
+    400404: R_Index_tip_j
+    400406: R_Knee_BIND_j
+    400408: R_Middle_01_BIND_j
+    400410: R_Middle_01_CTRL
+    400412: R_Middle_01_CTRL_fixGrp
+    400414: R_Middle_01_CTRL_rotGrp
+    400416: R_Middle_02_BIND_j
+    400418: R_Middle_02_CTRL
+    400420: R_Middle_02_CTRL_fixGrp
+    400422: R_Middle_02_CTRL_rotGrp
+    400424: R_Middle_tip_j
+    400426: R_Pinky_01_BIND_j
+    400428: R_Pinky_01_CTRL
+    400430: R_Pinky_01_CTRL_fixGrp
+    400432: R_Pinky_01_CTRL_rotGrp
+    400434: R_Pinky_02_BIND_j
+    400436: R_Pinky_02_CTRL
+    400438: R_Pinky_02_CTRL_fixGrp
+    400440: R_Pinky_02_CTRL_rotGrp
+    400442: R_Pinky_tip_j
+    400444: R_Ribbon_00_j
+    400446: R_Ribbon_01_BIND_j
+    400448: R_Ribbon_02_BIND_j
+    400450: R_Ribbon_03_BIND_j
+    400452: R_Ribbon_04_BIND_j
+    400454: R_Ribbon_05_BIND_j
+    400456: R_Ribbon_06_BIND_j
+    400458: R_Ribbon_07_BIND_j
+    400460: R_Ribbon_tip_j
+    400462: R_Ring_01_BIND_j
+    400464: R_Ring_01_CTRL
+    400466: R_Ring_01_CTRL_fixGrp
+    400468: R_Ring_01_CTRL_rotGrp
+    400470: R_Ring_02_BIND_j
+    400472: R_Ring_02_CTRL
+    400474: R_Ring_02_CTRL_fixGrp
+    400476: R_Ring_02_CTRL_rotGrp
+    400478: R_Ring_tip_j
+    400480: R_Shoulder_BIND_j
+    400482: R_Shoulder_CTRL
+    400484: R_Shoulder_CTRL_fixGrp
+    400486: R_Shoulder_FK_j
+    400488: R_Shoulder_IK_j
+    400490: R_Thumb_01_BIND_j
+    400492: R_Thumb_01_CTRL
+    400494: R_Thumb_01_CTRL_fixGrp
+    400496: R_Thumb_01_CTRL_rotGrp
+    400498: R_Thumb_02_BIND_j
+    400500: R_Thumb_02_CTRL
+    400502: R_Thumb_02_CTRL_fixGrp
+    400504: R_Thumb_02_CTRL_rotGrp
+    400506: R_Thumb_tip_j
+    400508: R_Toe_Bind_j
+    400510: R_Wrist_BIND_j
+    400512: R_Wrist_CTRL
+    400514: R_Wrist_CTRL_fixGrp
+    400516: R_Wrist_FK_j
+    400518: R_Wrist_IK_j
+    400520: Ribbon_Base_BIND_j
+    400522: Root_BIND_j
+    400524: Spine_01_BIND_j
+    400526: Spine_01_CTRL
+    400528: Spine_01_CTRL_fixGrp
+    400530: Spine_02_BIND_j
+    400532: Spine_02_CTRL
+    400534: Spine_02_CTRL_fixGrp
+    400536: Spine_03_BIND_j
+    400538: Spine_03_CTRL
+    400540: Spine_03_CTRL_fixGrp
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    animationImportErrors: 
+    animationImportWarnings: "\nInbetween bone default rotation found in this file
+      is different from the one found in the source avatar:\n\t'L_Ball_Bind_j' : rotation
+      error = 4.665606 deg\n\nClip 'Take 001' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Spine_03_BIND_j' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Chest_BIND_j' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'L_Ball_Bind_j'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_Ball_Bind_j'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hand_Extra_CTRLs
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Index_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Index_01_CTRL_fixGrp/L_Index_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Index_01_CTRL_fixGrp/L_Index_01_CTRL_rotGrp/L_Index_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Index_01_CTRL_fixGrp/L_Index_01_CTRL_rotGrp/L_Index_01_CTRL/L_Index_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Index_01_CTRL_fixGrp/L_Index_01_CTRL_rotGrp/L_Index_01_CTRL/L_Index_02_CTRL_fixGrp/L_Index_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Index_01_CTRL_fixGrp/L_Index_01_CTRL_rotGrp/L_Index_01_CTRL/L_Index_02_CTRL_fixGrp/L_Index_02_CTRL_rotGrp/L_Index_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Middle_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Middle_01_CTRL_fixGrp/L_Middle_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Middle_01_CTRL_fixGrp/L_Middle_01_CTRL_rotGrp/L_Middle_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Middle_01_CTRL_fixGrp/L_Middle_01_CTRL_rotGrp/L_Middle_01_CTRL/L_Middle_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Middle_01_CTRL_fixGrp/L_Middle_01_CTRL_rotGrp/L_Middle_01_CTRL/L_Middle_02_CTRL_fixGrp/L_Middle_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Middle_01_CTRL_fixGrp/L_Middle_01_CTRL_rotGrp/L_Middle_01_CTRL/L_Middle_02_CTRL_fixGrp/L_Middle_02_CTRL_rotGrp/L_Middle_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Pinky_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Pinky_01_CTRL_fixGrp/L_Pinky_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Pinky_01_CTRL_fixGrp/L_Pinky_01_CTRL_rotGrp/L_Pinky_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Pinky_01_CTRL_fixGrp/L_Pinky_01_CTRL_rotGrp/L_Pinky_01_CTRL/L_Pinky_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Pinky_01_CTRL_fixGrp/L_Pinky_01_CTRL_rotGrp/L_Pinky_01_CTRL/L_Pinky_02_CTRL_fixGrp/L_Pinky_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Pinky_01_CTRL_fixGrp/L_Pinky_01_CTRL_rotGrp/L_Pinky_01_CTRL/L_Pinky_02_CTRL_fixGrp/L_Pinky_02_CTRL_rotGrp/L_Pinky_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Ring_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Ring_01_CTRL_fixGrp/L_Ring_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Ring_01_CTRL_fixGrp/L_Ring_01_CTRL_rotGrp/L_Ring_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Ring_01_CTRL_fixGrp/L_Ring_01_CTRL_rotGrp/L_Ring_01_CTRL/L_Ring_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Ring_01_CTRL_fixGrp/L_Ring_01_CTRL_rotGrp/L_Ring_01_CTRL/L_Ring_02_CTRL_fixGrp/L_Ring_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Ring_01_CTRL_fixGrp/L_Ring_01_CTRL_rotGrp/L_Ring_01_CTRL/L_Ring_02_CTRL_fixGrp/L_Ring_02_CTRL_rotGrp/L_Ring_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Thumb_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Thumb_01_CTRL_fixGrp/L_Thumb_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Thumb_01_CTRL_fixGrp/L_Thumb_01_CTRL_rotGrp/L_Thumb_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Thumb_01_CTRL_fixGrp/L_Thumb_01_CTRL_rotGrp/L_Thumb_01_CTRL/L_Thumb_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Thumb_01_CTRL_fixGrp/L_Thumb_01_CTRL_rotGrp/L_Thumb_01_CTRL/L_Thumb_02_CTRL_fixGrp/L_Thumb_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Fingers/L_Thumb_01_CTRL_fixGrp/L_Thumb_01_CTRL_rotGrp/L_Thumb_01_CTRL/L_Thumb_02_CTRL_fixGrp/L_Thumb_02_CTRL_rotGrp/L_Thumb_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/L_Hand_Extra/L_Hand_Extra_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Index_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Index_01_CTRL_fixGrp/R_Index_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Index_01_CTRL_fixGrp/R_Index_01_CTRL_rotGrp/R_Index_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Index_01_CTRL_fixGrp/R_Index_01_CTRL_rotGrp/R_Index_01_CTRL/R_Index_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Index_01_CTRL_fixGrp/R_Index_01_CTRL_rotGrp/R_Index_01_CTRL/R_Index_02_CTRL_fixGrp/R_Index_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Index_01_CTRL_fixGrp/R_Index_01_CTRL_rotGrp/R_Index_01_CTRL/R_Index_02_CTRL_fixGrp/R_Index_02_CTRL_rotGrp/R_Index_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Middle_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Middle_01_CTRL_fixGrp/R_Middle_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Middle_01_CTRL_fixGrp/R_Middle_01_CTRL_rotGrp/R_Middle_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Middle_01_CTRL_fixGrp/R_Middle_01_CTRL_rotGrp/R_Middle_01_CTRL/R_Middle_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Middle_01_CTRL_fixGrp/R_Middle_01_CTRL_rotGrp/R_Middle_01_CTRL/R_Middle_02_CTRL_fixGrp/R_Middle_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Middle_01_CTRL_fixGrp/R_Middle_01_CTRL_rotGrp/R_Middle_01_CTRL/R_Middle_02_CTRL_fixGrp/R_Middle_02_CTRL_rotGrp/R_Middle_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Pinky_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Pinky_01_CTRL_fixGrp/R_Pinky_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Pinky_01_CTRL_fixGrp/R_Pinky_01_CTRL_rotGrp/R_Pinky_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Pinky_01_CTRL_fixGrp/R_Pinky_01_CTRL_rotGrp/R_Pinky_01_CTRL/R_Pinky_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Pinky_01_CTRL_fixGrp/R_Pinky_01_CTRL_rotGrp/R_Pinky_01_CTRL/R_Pinky_02_CTRL_fixGrp/R_Pinky_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Pinky_01_CTRL_fixGrp/R_Pinky_01_CTRL_rotGrp/R_Pinky_01_CTRL/R_Pinky_02_CTRL_fixGrp/R_Pinky_02_CTRL_rotGrp/R_Pinky_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Ring_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Ring_01_CTRL_fixGrp/R_Ring_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Ring_01_CTRL_fixGrp/R_Ring_01_CTRL_rotGrp/R_Ring_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Ring_01_CTRL_fixGrp/R_Ring_01_CTRL_rotGrp/R_Ring_01_CTRL/R_Ring_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Ring_01_CTRL_fixGrp/R_Ring_01_CTRL_rotGrp/R_Ring_01_CTRL/R_Ring_02_CTRL_fixGrp/R_Ring_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Ring_01_CTRL_fixGrp/R_Ring_01_CTRL_rotGrp/R_Ring_01_CTRL/R_Ring_02_CTRL_fixGrp/R_Ring_02_CTRL_rotGrp/R_Ring_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Thumb_01_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Thumb_01_CTRL_fixGrp/R_Thumb_01_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Thumb_01_CTRL_fixGrp/R_Thumb_01_CTRL_rotGrp/R_Thumb_01_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Thumb_01_CTRL_fixGrp/R_Thumb_01_CTRL_rotGrp/R_Thumb_01_CTRL/R_Thumb_02_CTRL_fixGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Thumb_01_CTRL_fixGrp/R_Thumb_01_CTRL_rotGrp/R_Thumb_01_CTRL/R_Thumb_02_CTRL_fixGrp/R_Thumb_02_CTRL_rotGrp
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Fingers/R_Thumb_01_CTRL_fixGrp/R_Thumb_01_CTRL_rotGrp/R_Thumb_01_CTRL/R_Thumb_02_CTRL_fixGrp/R_Thumb_02_CTRL_rotGrp/R_Thumb_02_CTRL
+        weight: 0
+      - path: Hand_Extra_CTRLs/R_Hand_Extra/R_Hand_Extra_CTRL
+        weight: 0
+      - path: Hip_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/L_Clavicle_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/L_Clavicle_CTRL_fixGrp/L_Clavicle_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/L_Flap_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/L_Flap_CTRL_fixGrp/L_Flap_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/Ahoge_01_CTRl_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/Ahoge_01_CTRl_fixGrp/Ahoge_01_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/Ahoge_01_CTRl_fixGrp/Ahoge_01_CTRL/Ahoge_02_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/Ahoge_01_CTRl_fixGrp/Ahoge_01_CTRL/Ahoge_02_CTRL_fixGrp/Ahoge_02_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Bang_01_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Bang_01_CTRL_fixGrp/L_Bang_01_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Bang_01_CTRL_fixGrp/L_Bang_01_CTRL/L_Bang_02_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Bang_01_CTRL_fixGrp/L_Bang_01_CTRL/L_Bang_02_CTRL_fixGrp/L_Bang_02_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Bang_01_CTRL_fixGrp/L_Bang_01_CTRL/L_Bang_02_CTRL_fixGrp/L_Bang_02_CTRL/L_Bang_03_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Bang_01_CTRL_fixGrp/L_Bang_01_CTRL/L_Bang_02_CTRL_fixGrp/L_Bang_02_CTRL/L_Bang_03_CTRL_fixGrp/L_Bang_03_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Hair_01_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Hair_01_CTRL_fixGrp/L_Hair_01_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Hair_01_CTRL_fixGrp/L_Hair_01_CTRL/L_Hair_02_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/L_Hair_01_CTRL_fixGrp/L_Hair_01_CTRL/L_Hair_02_CTRL_fixGrp/L_Hair_02_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/Mid_Bang_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/Mid_Bang_CTRL_fixGrp/Mid_Bang_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Bang_01_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Bang_01_CTRL_fixGrp/R_Bang_01_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Bang_01_CTRL_fixGrp/R_Bang_01_CTRL/R_Bang_02_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Bang_01_CTRL_fixGrp/R_Bang_01_CTRL/R_Bang_02_CTRL_fixGrp/R_Bang_02_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Bang_01_CTRL_fixGrp/R_Bang_01_CTRL/R_Bang_02_CTRL_fixGrp/R_Bang_02_CTRL/R_Bang_03_CTRL_gixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Bang_01_CTRL_fixGrp/R_Bang_01_CTRL/R_Bang_02_CTRL_fixGrp/R_Bang_02_CTRL/R_Bang_03_CTRL_gixGrp/R_Bang_03_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Hair_01_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Hair_01_CTRL_fixGrp/R_Hair_01_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Hair_01_CTRL_fixGrp/R_Hair_01_CTRL/R_Hair_02_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/Neck_CTRL_fixGrp/Neck_CTRL/Head_CTRL_fixGrp/Head_CTRL/R_Hair_01_CTRL_fixGrp/R_Hair_01_CTRL/R_Hair_02_CTRL_fixGrp/R_Hair_02_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/R_Clavicle_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/R_Clavicle_CTRL_fixGrp/R_Clavicle_CTRL
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/R_Flap_CTRL_fixGrp
+        weight: 0
+      - path: Hip_CTRL/Spine_01_CTRL_fixGrp/Spine_01_CTRL/Spine_02_CTRL_fixGrp/Spine_02_CTRL/Spine_03_CTRL_fixGrp/Spine_03_CTRL/Chest_CTRL_fixGrp/Chest_CTRL/R_Flap_CTRL_fixGrp/R_Flap_CTRL
+        weight: 0
+      - path: L_Hand_CTRL
+        weight: 0
+      - path: L_IKFK
+        weight: 0
+      - path: L_IKFK/L_Shoulder_CTRL_fixGrp
+        weight: 0
+      - path: L_IKFK/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL
+        weight: 0
+      - path: L_IKFK/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL/L_Elbow_CTRL_fixGrp
+        weight: 0
+      - path: L_IKFK/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL/L_Elbow_CTRL_fixGrp/L_Elbow_CTRL
+        weight: 0
+      - path: L_IKFK/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL/L_Elbow_CTRL_fixGrp/L_Elbow_CTRL/L_Wrist_CTRL_fixGrp
+        weight: 0
+      - path: L_IKFK/L_Shoulder_CTRL_fixGrp/L_Shoulder_CTRL/L_Elbow_CTRL_fixGrp/L_Elbow_CTRL/L_Wrist_CTRL_fixGrp/L_Wrist_CTRL
+        weight: 0
+      - path: L_IKFK/L_Shoulder_FK_j
+        weight: 0
+      - path: L_IKFK/L_Shoulder_FK_j/L_Elbow_FK_j
+        weight: 0
+      - path: L_IKFK/L_Shoulder_FK_j/L_Elbow_FK_j/L_Wrist_FK_j
+        weight: 0
+      - path: L_IKFK/L_Shoulder_IK_j
+        weight: 0
+      - path: L_IKFK/L_Shoulder_IK_j/L_Elbow_IK_j
+        weight: 0
+      - path: L_IKFK/L_Shoulder_IK_j/L_Elbow_IK_j/L_Wrist_IK_j
+        weight: 0
+      - path: R_Hand_ctGRP
+        weight: 0
+      - path: R_Hand_ctGRP/R_Hand_CTRL
+        weight: 0
+      - path: R_IKFK
+        weight: 0
+      - path: R_IKFK/R_Shoulder_CTRL_fixGrp
+        weight: 0
+      - path: R_IKFK/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL
+        weight: 0
+      - path: R_IKFK/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL/R_Elbow_CTRL_fixGrp
+        weight: 0
+      - path: R_IKFK/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL/R_Elbow_CTRL_fixGrp/R_Elbow_CTRL
+        weight: 0
+      - path: R_IKFK/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL/R_Elbow_CTRL_fixGrp/R_Elbow_CTRL/R_Wrist_CTRL_fixGrp
+        weight: 0
+      - path: R_IKFK/R_Shoulder_CTRL_fixGrp/R_Shoulder_CTRL/R_Elbow_CTRL_fixGrp/R_Elbow_CTRL/R_Wrist_CTRL_fixGrp/R_Wrist_CTRL
+        weight: 0
+      - path: R_IKFK/R_Shoulder_FK_j
+        weight: 0
+      - path: R_IKFK/R_Shoulder_FK_j/R_Elbow_FK_j
+        weight: 0
+      - path: R_IKFK/R_Shoulder_FK_j/R_Elbow_FK_j/R_Wrist_FK_j
+        weight: 0
+      - path: R_IKFK/R_Shoulder_IK_j
+        weight: 0
+      - path: R_IKFK/R_Shoulder_IK_j/R_Elbow_IK_j
+        weight: 0
+      - path: R_IKFK/R_Shoulder_IK_j/R_Elbow_IK_j/R_Wrist_IK_j
+        weight: 0
+      - path: Root_BIND_j
+        weight: 1
+      - path: Root_BIND_j/L_Hip_BIND_j
+        weight: 1
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Front_Dress_Base_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Front_Dress_Base_j/L_Front_Dress_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Front_Dress_Base_j/L_Front_Dress_01_BIND_j/L_Front_Dress_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Front_Dress_Base_j/L_Front_Dress_01_BIND_j/L_Front_Dress_02_BIND_j/L_Front_Dress_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Front_Dress_Base_j/L_Front_Dress_01_BIND_j/L_Front_Dress_02_BIND_j/L_Front_Dress_03_BIND_j/L_Front_Dress_tip_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Hind_Dress_Base_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Hind_Dress_Base_j/L_Hind_Dress_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Hind_Dress_Base_j/L_Hind_Dress_01_BIND_j/L_Hind_Dress_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Hind_Dress_Base_j/L_Hind_Dress_01_BIND_j/L_Hind_Dress_02_BIND_j/L_Hind_Dress_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Hind_Dress_Base_j/L_Hind_Dress_01_BIND_j/L_Hind_Dress_02_BIND_j/L_Hind_Dress_03_BIND_j/L_Hind_Dress_tip_j
+        weight: 0
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Knee_BIND_j
+        weight: 1
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Knee_BIND_j/L_Ankle_BIND_j
+        weight: 1
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Knee_BIND_j/L_Ankle_BIND_j/L_Ball_Bind_j
+        weight: 1
+      - path: Root_BIND_j/L_Hip_BIND_j/L_Knee_BIND_j/L_Ankle_BIND_j/L_Ball_Bind_j/L_Toe_Bind_j
+        weight: 1
+      - path: Root_BIND_j/R_Hip_BIND_j
+        weight: 1
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Front_Dress_Base_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Front_Dress_Base_j/R_Front_Dress_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Front_Dress_Base_j/R_Front_Dress_01_BIND_j/R_Front_Dress_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Front_Dress_Base_j/R_Front_Dress_01_BIND_j/R_Front_Dress_02_BIND_j/R_Front_Dress_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Front_Dress_Base_j/R_Front_Dress_01_BIND_j/R_Front_Dress_02_BIND_j/R_Front_Dress_03_BIND_j/R_Front_Dress_tip_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Hind_Dress_Base_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Hind_Dress_Base_j/R_Hind_Dress_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Hind_Dress_Base_j/R_Hind_Dress_01_BIND_j/R_Hind_Dress_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Hind_Dress_Base_j/R_Hind_Dress_01_BIND_j/R_Hind_Dress_02_BIND_j/R_Hind_Dress_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Hind_Dress_Base_j/R_Hind_Dress_01_BIND_j/R_Hind_Dress_02_BIND_j/R_Hind_Dress_03_BIND_j/R_Hind_Dress_tip_j
+        weight: 0
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Knee_BIND_j
+        weight: 1
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Knee_BIND_j/R_Ankle_BIND_j
+        weight: 1
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Knee_BIND_j/R_Ankle_BIND_j/R_Ball_Bind_j
+        weight: 1
+      - path: Root_BIND_j/R_Hip_BIND_j/R_Knee_BIND_j/R_Ankle_BIND_j/R_Ball_Bind_j/R_Toe_Bind_j
+        weight: 1
+      - path: Root_BIND_j/R_Ribbon_00_j
+        weight: 0
+      - path: Root_BIND_j/R_Ribbon_00_j/R_Ribbon_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Ribbon_00_j/R_Ribbon_01_BIND_j/R_Ribbon_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Ribbon_00_j/R_Ribbon_01_BIND_j/R_Ribbon_02_BIND_j/R_Ribbon_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Ribbon_00_j/R_Ribbon_01_BIND_j/R_Ribbon_02_BIND_j/R_Ribbon_03_BIND_j/R_Ribbon_04_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Ribbon_00_j/R_Ribbon_01_BIND_j/R_Ribbon_02_BIND_j/R_Ribbon_03_BIND_j/R_Ribbon_04_BIND_j/R_Ribbon_05_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Ribbon_00_j/R_Ribbon_01_BIND_j/R_Ribbon_02_BIND_j/R_Ribbon_03_BIND_j/R_Ribbon_04_BIND_j/R_Ribbon_05_BIND_j/R_Ribbon_06_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Ribbon_00_j/R_Ribbon_01_BIND_j/R_Ribbon_02_BIND_j/R_Ribbon_03_BIND_j/R_Ribbon_04_BIND_j/R_Ribbon_05_BIND_j/R_Ribbon_06_BIND_j/R_Ribbon_07_BIND_j
+        weight: 0
+      - path: Root_BIND_j/R_Ribbon_00_j/R_Ribbon_01_BIND_j/R_Ribbon_02_BIND_j/R_Ribbon_03_BIND_j/R_Ribbon_04_BIND_j/R_Ribbon_05_BIND_j/R_Ribbon_06_BIND_j/R_Ribbon_07_BIND_j/R_Ribbon_tip_j
+        weight: 0
+      - path: Root_BIND_j/Ribbon_Base_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Ribbon_Base_BIND_j/L_Ribbon_00_j
+        weight: 0
+      - path: Root_BIND_j/Ribbon_Base_BIND_j/L_Ribbon_00_j/L_Ribbon_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Ribbon_Base_BIND_j/L_Ribbon_00_j/L_Ribbon_01_BIND_j/L_Ribbon_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Ribbon_Base_BIND_j/L_Ribbon_00_j/L_Ribbon_01_BIND_j/L_Ribbon_02_BIND_j/L_Ribbon_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Ribbon_Base_BIND_j/L_Ribbon_00_j/L_Ribbon_01_BIND_j/L_Ribbon_02_BIND_j/L_Ribbon_03_BIND_j/L_Ribbon_04_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Ribbon_Base_BIND_j/L_Ribbon_00_j/L_Ribbon_01_BIND_j/L_Ribbon_02_BIND_j/L_Ribbon_03_BIND_j/L_Ribbon_04_BIND_j/L_Ribbon_05_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Ribbon_Base_BIND_j/L_Ribbon_00_j/L_Ribbon_01_BIND_j/L_Ribbon_02_BIND_j/L_Ribbon_03_BIND_j/L_Ribbon_04_BIND_j/L_Ribbon_05_BIND_j/L_Ribbon_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Front_Flap_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Front_Flap_BIND_j/Front_Flap_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Index_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Index_01_BIND_j/L_Index_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Index_01_BIND_j/L_Index_02_BIND_j/L_Index_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Middle_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Middle_01_BIND_j/L_Middle_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Middle_01_BIND_j/L_Middle_02_BIND_j/L_Middle_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Pinky_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Pinky_01_BIND_j/L_Pinky_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Pinky_01_BIND_j/L_Pinky_02_BIND_j/L_Pinky_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Ring_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Ring_01_BIND_j/L_Ring_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Ring_01_BIND_j/L_Ring_02_BIND_j/L_Ring_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Thumb_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Thumb_01_BIND_j/L_Thumb_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Clavicle_BIND_j/L_Shoulder_BIND_j/L_Elbow_BIND_j/L_Wrist_BIND_j/L_Hand_j/L_Thumb_01_BIND_j/L_Thumb_02_BIND_j/L_Thumb_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Flap_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Flap_01_BIND_j/L_Flap_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Flap_01_BIND_j/L_Flap_02_BIND_j/L_Flap_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/L_Flap_01_BIND_j/L_Flap_02_BIND_j/L_Flap_03_BIND_j/L_Flap_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/Ahoga_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/Ahoga_01_BIND_j/Ahoga_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/Ahoga_01_BIND_j/Ahoga_02_BIND_j/Ahoga_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/L_Bang_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/L_Bang_01_BIND_j/L_Bang_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/L_Bang_01_BIND_j/L_Bang_02_BIND_j/L_Bang_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/L_Bang_01_BIND_j/L_Bang_02_BIND_j/L_Bang_03_BIND_j/L_Bang_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/L_Hair_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/L_Hair_01_BIND_j/L_Hair_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/L_Hair_01_BIND_j/L_Hair_02_BIND_j/L_Hair_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/Mid_Bang_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/Mid_Bang_01_BIND_j/Mid_Bang_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/Mid_Bang_01_BIND_j/Mid_Bang_02_BIND_j/Mid_Bang_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/Mid_Bang_01_BIND_j/Mid_Bang_02_BIND_j/Mid_Bang_03_BIND_j/Mid_Bang_04_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/Mid_Bang_01_BIND_j/Mid_Bang_02_BIND_j/Mid_Bang_03_BIND_j/Mid_Bang_04_BIND_j/Mid_Bang_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/R_Bang_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/R_Bang_01_BIND_j/R_Bang_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/R_Bang_01_BIND_j/R_Bang_02_BIND_j/R_Bang_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/R_Bang_01_BIND_j/R_Bang_02_BIND_j/R_Bang_03_BIND_j/R_Bang_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/R_Hair_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/R_Hair_01_BIND_j/R_Hair_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/Neck_BIND_j/Head_BIND_j/Face_Collector_j/R_Hair_01_BIND_j/R_Hair_02_BIND_j/R_Hair_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Index_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Index_01_BIND_j/R_Index_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Index_01_BIND_j/R_Index_02_BIND_j/R_Index_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Middle_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Middle_01_BIND_j/R_Middle_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Middle_01_BIND_j/R_Middle_02_BIND_j/R_Middle_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Pinky_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Pinky_01_BIND_j/R_Pinky_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Pinky_01_BIND_j/R_Pinky_02_BIND_j/R_Pinky_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Ring_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Ring_01_BIND_j/R_Ring_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Ring_01_BIND_j/R_Ring_02_BIND_j/R_Ring_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Thumb_01_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Thumb_01_BIND_j/R_Thumb_02_BIND_j
+        weight: 1
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Clavicle_BIND_j/R_Shoulder_BIND_j/R_Elbow_BIND_j/R_Wrist_BIND_j/R_Hand_j/R_Thumb_01_BIND_j/R_Thumb_02_BIND_j/R_Thumb_tip_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Flap_01_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Flap_01_BIND_j/R_Flap_02_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Flap_01_BIND_j/R_Flap_02_BIND_j/R_Flap_03_BIND_j
+        weight: 0
+      - path: Root_BIND_j/Spine_01_BIND_j/Spine_02_BIND_j/Spine_03_BIND_j/Chest_BIND_j/R_Flap_01_BIND_j/R_Flap_02_BIND_j/R_Flap_03_BIND_j/R_Flap_tip_j
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: Root_BIND_j
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Hip_BIND_j
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Hip_BIND_j
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Knee_BIND_j
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Knee_BIND_j
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Ankle_BIND_j
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Ankle_BIND_j
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine_01_BIND_j
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine_02_BIND_j
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck_BIND_j
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head_BIND_j
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Clavicle_BIND_j
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Clavicle_BIND_j
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Shoulder_BIND_j
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Shoulder_BIND_j
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Elbow_BIND_j
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Elbow_BIND_j
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Wrist_BIND_j
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Wrist_BIND_j
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Toe_Bind_j
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Toe_Bind_j
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Bang_01_BIND_j
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Bang_01_BIND_j
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mid_Bang_01_BIND_j
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Thumb_01_BIND_j
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Thumb_02_BIND_j
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Index_01_BIND_j
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Index_02_BIND_j
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Middle_01_BIND_j
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Middle_02_BIND_j
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Ring_01_BIND_j
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Ring_02_BIND_j
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Pinky_01_BIND_j
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Pinky_02_BIND_j
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Thumb_01_BIND_j
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Thumb_02_BIND_j
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Index_01_BIND_j
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Index_02_BIND_j
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Middle_01_BIND_j
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Middle_02_BIND_j
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Ring_01_BIND_j
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Ring_02_BIND_j
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Pinky_01_BIND_j
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Pinky_02_BIND_j
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SK_Katelyn_02(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Katelyn_Body_04
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Katelyn_Ribbon_04
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Root_BIND_j
+      position: {x: 3.6977854e-34, y: 1.107413, z: 0}
+      rotation: {x: -0.45753887, y: 0.53912723, z: -0.45753887, w: 0.53912723}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ribbon_00_j
+      position: {x: 0.0005350731, y: 0.14695035, z: 0.06499699}
+      rotation: {x: -0.2780487, y: 0.6501453, z: 0.5962699, w: 0.38008183}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ribbon_01_BIND_j
+      position: {x: -0.02724468, y: -4.2632563e-16, z: -0.0108252745}
+      rotation: {x: 0.0014208427, y: -0.0009562339, z: 0.312359, w: 0.9499626}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ribbon_02_BIND_j
+      position: {x: -0.06681353, y: -3.0273573e-17, z: 0.009857556}
+      rotation: {x: -0.010458732, y: 0.0091540245, z: 0.08404709, w: 0.99636483}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ribbon_03_BIND_j
+      position: {x: -0.11000257, y: -2.0700334e-17, z: 0.010514727}
+      rotation: {x: 0.008247646, y: -0.03174012, z: 0.06623879, w: 0.99726474}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ribbon_04_BIND_j
+      position: {x: -0.13194728, y: -7.063647e-17, z: 0.01642926}
+      rotation: {x: 0.001556499, y: 0.026926046, z: 0.03961564, w: 0.99885094}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ribbon_05_BIND_j
+      position: {x: -0.15053529, y: -6.6077053e-17, z: 0.005914533}
+      rotation: {x: 0.00012511625, y: 0.0006113559, z: 0.013429871, w: 0.99990964}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ribbon_06_BIND_j
+      position: {x: -0.14108022, y: -9.339096e-18, z: 0.0013143409}
+      rotation: {x: 0.00035502142, y: 0.0010290693, z: -0.014389616, w: 0.9998959}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ribbon_07_BIND_j
+      position: {x: -0.13318112, y: 1.2234332e-17, z: -0.0032858518}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine_01_BIND_j
+      position: {x: -0.14970525, y: 7.105427e-17, z: -3.3241242e-17}
+      rotation: {x: 0.7047494, y: -0.057691682, z: -0.057691682, w: 0.7047494}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine_02_BIND_j
+      position: {x: -0.1091875, y: 2.4244495e-17, z: -0.004296524}
+      rotation: {x: 1.540744e-33, y: -3.925231e-17, z: 3.925231e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Spine_03_BIND_j
+      position: {x: -0.09348245, y: 2.0757274e-17, z: -0.004296524}
+      rotation: {x: 1.540744e-33, y: -3.925231e-17, z: 3.925231e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Chest_BIND_j
+      position: {x: -0.10769179, y: 2.391238e-17, z: -0.011457397}
+      rotation: {x: 0.7068506, y: -0.019034095, z: 0.019034095, w: 0.7068506}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Neck_BIND_j
+      position: {x: -0.07983576, y: 2.7812558e-18, z: -1.8255381e-17}
+      rotation: {x: -0.7068506, y: 0.019034095, z: -0.019034095, w: 0.7068506}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head_BIND_j
+      position: {x: -0.08370057, y: 1.858526e-17, z: 0}
+      rotation: {x: 0, y: 0, z: 0.008234081, w: 0.99996614}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Face_Collector_j
+      position: {x: -0.083830446, y: 0.0013806738, z: 5.8023246e-17}
+      rotation: {x: 0.05412202, y: -0.029415688, z: 0.46212003, w: 0.88467544}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Hair_01_BIND_j
+      position: {x: -0.15107396, y: -1.13956e-16, z: 2.477477e-19}
+      rotation: {x: 0.013436967, y: -0.03294519, z: 0.20276661, w: 0.97858053}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Hair_02_BIND_j
+      position: {x: -0.07832101, y: 5.4588277e-16, z: -1.3322676e-17}
+      rotation: {x: 0.005703443, y: -0.030612253, z: -0.0012511098, w: 0.9995143}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ahoga_01_BIND_j
+      position: {x: -0.085729375, y: 0.13432418, z: 0.030247107}
+      rotation: {x: -0.4054768, y: 0.5253696, z: -0.049132083, w: 0.7464324}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ahoga_02_BIND_j
+      position: {x: -0.08286486, y: 2.5757176e-16, z: 8.2156505e-17}
+      rotation: {x: -0.0024256587, y: 0.12103359, z: 0.6417491, w: 0.75729984}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mid_Bang_01_BIND_j
+      position: {x: -0.08253348, y: 0.13500275, z: 0.05471111}
+      rotation: {x: -0.13088956, y: 0.73780096, z: 0.2675995, w: 0.60572946}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mid_Bang_02_BIND_j
+      position: {x: -0.0671122, y: 3.1000464e-16, z: -0.008793654}
+      rotation: {x: 0, y: 0, z: 0.50248975, w: 0.8645832}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mid_Bang_03_BIND_j
+      position: {x: -0.06602433, y: 1.4271252e-16, z: -0.0034403815}
+      rotation: {x: 0.9683125, y: 0.24974176, z: 7.0746084e-17, w: 2.743006e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mid_Bang_04_BIND_j
+      position: {x: -0.052228566, y: -9.8748855e-18, z: -0.0034403815}
+      rotation: {x: 8.8758566e-16, y: -3.244452e-17, z: -0.03652928, w: 0.9993326}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Bang_01_BIND_j
+      position: {x: -0.09233692, y: 0.017093973, z: 0.084165834}
+      rotation: {x: 0.020281017, y: 0.058164906, z: 0.79834914, w: 0.59903604}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Bang_02_BIND_j
+      position: {x: -0.11101936, y: -2.8310687e-17, z: 4.440892e-18}
+      rotation: {x: 0.9687545, y: 0.24802174, z: 7.025884e-17, w: 2.744258e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Bang_03_BIND_j
+      position: {x: -0.1170291, y: 1.9311643e-17, z: 0.008410572}
+      rotation: {x: 0, y: 0, z: -0.08239195, w: 0.99660003}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Bang_01_BIND_j
+      position: {x: 0.034446012, y: 0.102269426, z: 0.065240875}
+      rotation: {x: 0.074164964, y: -0.006238827, z: -0.33062997, w: 0.9408212}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Bang_02_BIND_j
+      position: {x: 0.11102168, y: -0.0000008114602, z: 0.00000021743011}
+      rotation: {x: -0.12644783, y: -0.03237333, z: -0.24589987, w: 0.9604666}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Bang_03_BIND_j
+      position: {x: 0.117024146, y: -0.0000009032042, z: -0.0084106}
+      rotation: {x: 0.000000014816031, y: -0.0000000016446359, z: -0.08239195, w: 0.99660003}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Hair_01_BIND_j
+      position: {x: 0.05395868, y: 0.13775063, z: -0.03060571}
+      rotation: {x: 0.91428655, y: 0.37289932, z: -0.15490639, w: 0.03209735}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Hair_02_BIND_j
+      position: {x: 0.078321666, y: -0.0000009640991, z: -0.000000091077126}
+      rotation: {x: 0.005703443, y: -0.030612253, z: -0.0012511098, w: 0.9995143}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Clavicle_BIND_j
+      position: {x: -0.0060190298, y: 0.00032439647, z: 0.07010176}
+      rotation: {x: -0.5200706, y: 0.57437235, z: 0.44401264, w: 0.44997323}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Shoulder_BIND_j
+      position: {x: -0.07857775, y: 1.1368684e-15, z: -0.04527525}
+      rotation: {x: 0.034789864, y: -0.058887012, z: 0.028669018, w: 0.99724627}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Elbow_BIND_j
+      position: {x: -0.2403824, y: 0.008032938, z: -0.018034719}
+      rotation: {x: -0.0046365126, y: -0.11661167, z: -0.053395223, w: 0.9917304}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Wrist_BIND_j
+      position: {x: -0.24009088, y: -0.007252273, z: 0.052627042}
+      rotation: {x: 0.044267867, y: 0.08130444, z: -0.05735034, w: 0.9940528}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Hand_j
+      position: {x: -0.06607231, y: -2.3619995e-16, z: 1.9984014e-17}
+      rotation: {x: 0.21354592, y: 0.7601654, z: -0.08125083, w: 0.60823107}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Thumb_01_BIND_j
+      position: {x: -0.047924936, y: 2.529213e-16, z: -8.569672e-17}
+      rotation: {x: -0.056421142, y: -0.44409508, z: 0.07545437, w: 0.8910124}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Thumb_02_BIND_j
+      position: {x: -0.03294221, y: -1.4210854e-16, z: 1.4210854e-16}
+      rotation: {x: -0.074056655, y: -0.13111591, z: -0.020338679, w: 0.9883879}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Index_01_BIND_j
+      position: {x: -0.011808521, y: -0.0112008415, z: -0.05053921}
+      rotation: {x: -0.1598659, y: -0.70194227, z: 0.1178323, w: 0.6839851}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Index_02_BIND_j
+      position: {x: -0.050946545, y: -1.976197e-16, z: 6.6613384e-17}
+      rotation: {x: 0.008592634, y: 0.017443739, z: 0.07252092, w: 0.9971773}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Middle_01_BIND_j
+      position: {x: 0.009337617, y: -0.021197159, z: -0.05241747}
+      rotation: {x: -0.26884672, y: -0.7503506, z: 0.11653265, w: 0.59255016}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Middle_02_BIND_j
+      position: {x: -0.04527484, y: -2.220446e-18, z: 1.3322676e-17}
+      rotation: {x: 0.00867437, y: 0.012042317, z: -0.0020810955, w: 0.9998877}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ring_01_BIND_j
+      position: {x: 0.03428432, y: -0.037506253, z: -0.034916945}
+      rotation: {x: 0.29228258, y: 0.79628456, z: -0.017139463, w: -0.5293469}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ring_02_BIND_j
+      position: {x: -0.04494016, y: -1.4876989e-16, z: -7.771561e-17}
+      rotation: {x: 0.05085337, y: 0.07778477, z: -0.01332183, w: 0.9955833}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Pinky_01_BIND_j
+      position: {x: 0.045936197, y: -0.041271232, z: -0.007884089}
+      rotation: {x: 0.5174138, y: 0.70914906, z: 0.0013638024, w: -0.4789455}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Pinky_02_BIND_j
+      position: {x: -0.03681817, y: 0.015644243, z: 0.0018747642}
+      rotation: {x: 0.06183627, y: 0.04836394, z: -0.11976672, w: 0.98969346}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Clavicle_BIND_j
+      position: {x: -0.006014272, y: 0.00032413614, z: -0.0701018}
+      rotation: {x: 0.57437915, y: 0.52006215, z: -0.4499661, w: 0.44402072}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Shoulder_BIND_j
+      position: {x: 0.07857678, y: -0.000006864762, z: 0.045275223}
+      rotation: {x: 0.034792654, y: -0.058887646, z: 0.0286481, w: 0.99724674}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Elbow_BIND_j
+      position: {x: 0.24038516, y: -0.008030571, z: 0.018034697}
+      rotation: {x: -0.004635855, y: -0.11661124, z: -0.053387336, w: 0.9917309}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Wrist_BIND_j
+      position: {x: 0.24008875, y: 0.0072499895, z: -0.052626997}
+      rotation: {x: 0.04426649, y: 0.08130281, z: -0.057361607, w: 0.99405235}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Hand_j
+      position: {x: 0.06607431, y: 0.0000050497224, z: -0.000000024507955}
+      rotation: {x: 0.21354592, y: 0.7601654, z: -0.08125083, w: 0.60823107}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Thumb_01_BIND_j
+      position: {x: 0.04792347, y: -0.000007893975, z: 0.0000008051013}
+      rotation: {x: -0.0564045, y: -0.44411123, z: 0.075429626, w: 0.8910074}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Thumb_02_BIND_j
+      position: {x: 0.032943204, y: 0.0000023737603, z: -0.00000088614297}
+      rotation: {x: -0.074056655, y: -0.13111591, z: -0.020338679, w: 0.9883879}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Index_01_BIND_j
+      position: {x: 0.011808278, y: 0.011201071, z: 0.05053985}
+      rotation: {x: -0.1599078, y: -0.7019378, z: 0.11785768, w: 0.6839754}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Index_02_BIND_j
+      position: {x: 0.050943132, y: -0.000007664797, z: -0.00000014725362}
+      rotation: {x: 0.008592634, y: 0.017443739, z: 0.07252092, w: 0.9971773}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Middle_01_BIND_j
+      position: {x: -0.00933825, y: 0.021193426, z: 0.052417696}
+      rotation: {x: -0.26884645, y: -0.75035036, z: 0.11653221, w: 0.5925506}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Middle_02_BIND_j
+      position: {x: 0.045276083, y: 0.0000008946908, z: 0.00000003793233}
+      rotation: {x: 0.00867437, y: 0.012042317, z: -0.0020810955, w: 0.9998877}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ring_01_BIND_j
+      position: {x: -0.03428495, y: 0.037502814, z: 0.03491736}
+      rotation: {x: 0.29229683, y: 0.79627925, z: -0.017154224, w: -0.5293465}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ring_02_BIND_j
+      position: {x: 0.04493838, y: -0.0000018794094, z: 0.00000020619697}
+      rotation: {x: 0.05085337, y: 0.07778477, z: -0.01332183, w: 0.9955833}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Pinky_01_BIND_j
+      position: {x: -0.045936804, y: 0.041268412, z: 0.007884457}
+      rotation: {x: 0.5174119, y: 0.7091518, z: 0.0013777064, w: -0.47894353}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Pinky_02_BIND_j
+      position: {x: 0.036819294, y: -0.015643135, z: -0.0018744722}
+      rotation: {x: 0.06183627, y: 0.04836394, z: -0.11976672, w: 0.98969346}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Flap_01_BIND_j
+      position: {x: -0.06542437, y: -0.09008081, z: 0.08987604}
+      rotation: {x: -0.05788423, y: 0.7047336, z: -0.70059717, w: -0.09572703}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Flap_02_BIND_j
+      position: {x: -0.08976018, y: -6.2777e-17, z: 0.039138194}
+      rotation: {x: 0, y: 0, z: 0.088537626, w: 0.9960728}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Flap_03_BIND_j
+      position: {x: -0.08486628, y: -1.11022296e-17, z: 2.5798822e-17}
+      rotation: {x: 0, y: 0, z: 0.020218806, w: 0.99979556}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Flap_01_BIND_j
+      position: {x: -0.065425694, y: -0.09008075, z: -0.08987601}
+      rotation: {x: -0.7047336, y: -0.05788423, z: -0.09572703, w: 0.70059717}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Flap_02_BIND_j
+      position: {x: 0.08975955, y: -0.000000043860588, z: -0.039138302}
+      rotation: {x: 0, y: 0, z: 0.088537626, w: 0.9960728}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Flap_03_BIND_j
+      position: {x: 0.084869385, y: 0.000000113779734, z: -5.3290704e-17}
+      rotation: {x: 0, y: 0, z: 0.020218806, w: 0.99979556}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Front_Flap_BIND_j
+      position: {x: 0.01832, y: 0.0773, z: 3.6137133e-16}
+      rotation: {x: -0.12378984, y: 0.99230844, z: 6.1035305e-15, w: 1.1963494e-18}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Hip_BIND_j
+      position: {x: 0.015524607, y: -0.002558876, z: -0.111629784}
+      rotation: {x: 4.3575724e-16, y: -1.4696353e-16, z: 0.99666613, w: 0.08158836}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Front_Dress_Base_j
+      position: {x: -0.17225131, y: 0.12359451, z: -0.035803188}
+      rotation: {x: 0.5, y: 0.5, z: 0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Front_Dress_01_BIND_j
+      position: {x: -1.4210854e-16, y: -0.009913535, z: 0.004125398}
+      rotation: {x: 0.5035432, y: 0.49473384, z: 0.50359195, w: 0.49807426}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Front_Dress_02_BIND_j
+      position: {x: -0.1410152, y: 0.021449145, z: -0.028430482}
+      rotation: {x: -0.7011496, y: -0.067262076, z: -0.0912367, w: 0.7039467}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Front_Dress_03_BIND_j
+      position: {x: -0.10868033, y: 2.6645352e-17, z: 2.510141e-15}
+      rotation: {x: 0, y: 0, z: -0.011446451, w: 0.9999345}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Hind_Dress_Base_j
+      position: {x: -0.17225131, y: -0.099746786, z: -0.035803214}
+      rotation: {x: 0.5, y: 0.5, z: 0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Hind_Dress_01_BIND_j
+      position: {x: -1.5987211e-16, y: -0.009913723, z: -0.006524063}
+      rotation: {x: 0.4947337, y: -0.50354326, z: -0.49807438, w: 0.5035918}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Hind_Dress_02_BIND_j
+      position: {x: 0.141015, y: -0.021449, z: 0.02843}
+      rotation: {x: -0.7011496, y: -0.06726171, z: -0.091236204, w: 0.70394677}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Hind_Dress_03_BIND_j
+      position: {x: 0.108679995, y: -0.0000002615973, z: 2.4868995e-15}
+      rotation: {x: 0, y: 0, z: -0.011446451, w: 0.9999345}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Knee_BIND_j
+      position: {x: -0.49880478, y: 0.0066314256, z: 1.638727e-16}
+      rotation: {x: -7.35197e-30, y: 6.584959e-29, z: -2.6183147e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ankle_BIND_j
+      position: {x: -0.47936785, y: -0.035383224, z: 4.560401e-17}
+      rotation: {x: 0, y: 0, z: -0.38987643, w: 0.9208672}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ball_Bind_j
+      position: {x: -0.11664531, y: 5.3290704e-17, z: 1.7763568e-17}
+      rotation: {x: 2.0579887e-16, y: -8.3370455e-17, z: -0.37546715, w: 0.9268357}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Toe_Bind_j
+      position: {x: -0.108055145, y: -0, z: 1.7763568e-17}
+      rotation: {x: 0, y: 0, z: -0.6470577, w: 0.76244104}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Hip_BIND_j
+      position: {x: 0.015523638, y: -0.002558716, z: 0.11163001}
+      rotation: {x: 1.2229726e-16, y: -6.401282e-18, z: -0.08158836, w: 0.99666613}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Front_Dress_Base_j
+      position: {x: 0.17225228, y: -0.12359451, z: 0.035803}
+      rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Front_Dress_01_BIND_j
+      position: {x: -5.3290704e-17, y: -0.009913723, z: 0.0041254973}
+      rotation: {x: -0.49807438, y: 0.5035918, z: -0.4947337, w: 0.50354326}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Front_Dress_02_BIND_j
+      position: {x: 0.141015, y: -0.021449, z: 0.02843}
+      rotation: {x: -0.7011496, y: -0.06726171, z: -0.091236204, w: 0.70394677}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Front_Dress_03_BIND_j
+      position: {x: 0.108679995, y: -0.0000002615973, z: -2.5401904e-15}
+      rotation: {x: 0, y: 0, z: -0.011446451, w: 0.9999345}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Hind_Dress_Base_j
+      position: {x: 0.17225228, y: 0.099746786, z: 0.035803}
+      rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Hind_Dress_01_BIND_j
+      position: {x: -1.7763568e-17, y: -0.009913723, z: -0.006524207}
+      rotation: {x: 0.50359184, y: 0.49807438, z: -0.5035433, w: -0.4947337}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Hind_Dress_02_BIND_j
+      position: {x: -0.141015, y: 0.021449, z: -0.02843}
+      rotation: {x: -0.7011496, y: -0.06726171, z: -0.091236204, w: 0.70394677}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Hind_Dress_03_BIND_j
+      position: {x: -0.108679995, y: 0.0000002615973, z: -2.5046633e-15}
+      rotation: {x: 0, y: 0, z: -0.011446451, w: 0.9999345}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Knee_BIND_j
+      position: {x: 0.498806, y: -0.0066314256, z: 1.4295873e-16}
+      rotation: {x: 4.6726047e-30, y: -1.9906242e-29, z: -1.7455397e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ankle_BIND_j
+      position: {x: 0.47936797, y: 0.035383224, z: 8.796767e-17}
+      rotation: {x: 0, y: 0, z: -0.38987643, w: 0.9208672}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Ball_Bind_j
+      position: {x: 0.11664502, y: -0.00000025805647, z: 3.5527136e-17}
+      rotation: {x: -2.0579887e-16, y: 8.3370455e-17, z: -0.37546715, w: 0.9268357}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Toe_Bind_j
+      position: {x: 0.1080548, y: -1.3322676e-17, z: 1.7763568e-17}
+      rotation: {x: 0, y: 0, z: -0.0036816127, w: 0.99999326}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Ribbon_Base_BIND_j
+      position: {x: 0.010207979, y: 0.13072331, z: 1.9503178e-17}
+      rotation: {x: -0.23107307, y: 0.6682853, z: -0.6218082, w: -0.33668175}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ribbon_00_j
+      position: {x: -0.015134221, y: -1.4210854e-16, z: -0.01681196}
+      rotation: {x: -0.011235972, y: 0.01685854, z: 0.25533104, w: 0.9666414}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ribbon_01_BIND_j
+      position: {x: -0.033546023, y: -1.1394823e-16, z: -0.016189292}
+      rotation: {x: 0.015856247, y: -0.08249193, z: 0.09412307, w: 0.99201035}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ribbon_02_BIND_j
+      position: {x: -0.121632144, y: 1.4621238e-17, z: -0.006226651}
+      rotation: {x: -0.0019130342, y: 0.068597294, z: 0.05972501, w: 0.9958533}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ribbon_03_BIND_j
+      position: {x: -0.13884988, y: -6.078292e-17, z: -0.0024906606}
+      rotation: {x: 0.00018755333, y: 0.017696036, z: 0.022654153, w: 0.9995867}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ribbon_04_BIND_j
+      position: {x: -0.1504207, y: -7.8410396e-17, z: 0.0012453303}
+      rotation: {x: 0.000063159765, y: 0.0015377185, z: -0.004238294, w: 0.99998987}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Ribbon_05_BIND_j
+      position: {x: -0.12535058, y: -1.2441302e-16, z: -0.0018679955}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root_BIND_j
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 80cef75d58f65fd4d900d1596d63b37d,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
