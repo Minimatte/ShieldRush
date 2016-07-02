@@ -148,7 +148,7 @@ public class ShieldCharge : Ability {
 
     private IEnumerator SpawnParticles() {
         Vector3 rot = playerProperties.unitMesh.rotation.eulerAngles;
-        Destroy((GameObject)Instantiate(particlePrefab, transform.position + Vector3.up * 2.5f, Quaternion.Euler(new Vector3(90, rot.y + 90, 0))), 2f);
+        Destroy((GameObject)Instantiate(particlePrefab, transform.position + Vector3.up * 1.5f, Quaternion.Euler(new Vector3(90, rot.y + 90, 0))), 2f);
         yield return new WaitForSeconds(0.1f);
 
     }
@@ -203,7 +203,7 @@ public class ShieldCharge : Ability {
                     if (Physics.Raycast(transform.position + direction, -Vector3.up, rollDistance, rollProperties.rollDetectionLayers)
                         && !Physics.Raycast(transform.position + direction, direction, 0.1f, rollProperties.rollDetectionLayers))
                         transform.position = Vector3.MoveTowards(transform.position, targetPos, chargeSpeed * Time.deltaTime * rollProperties.rollSpeed.Evaluate(counter));
-                        // rollProperties.rollSpeed is a curve that can be modified in the editor.
+                    // rollProperties.rollSpeed is a curve that can be modified in the editor.
                     else
                         break;
 

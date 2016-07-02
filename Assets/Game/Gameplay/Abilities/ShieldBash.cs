@@ -26,7 +26,6 @@ public class ShieldBash : Ability {
             playerProperties = GetComponent<Player>();
             attackProperties = playerProperties.attackProperties;
         }
-
     }
 
     public override void UseAbility(bool modified) {
@@ -83,7 +82,6 @@ public class ShieldBash : Ability {
         currentCombo = 0;
         playerProperties.movementProperties.slowed = false;
         playerProperties.companion.side = 1;
-        //playerProperties.movementProperties.canMove = true;
     }
 
     IEnumerator WaitForAbility(bool modified, float power) {
@@ -100,7 +98,6 @@ public class ShieldBash : Ability {
             coroutine = CheckForCombo();
             StartCoroutine(coroutine);
 
-            //playerProperties.movementProperties.canMove = false;
             playerProperties.movementProperties.slowed = true;
 
             if (modified && abilityProperties.upgraded) {
@@ -125,9 +122,6 @@ public class ShieldBash : Ability {
                 waitAfter = false;
             }
 
-            //this freaks out in down slopes
-            //transform.position = Vector3.Lerp(transform.position, playerProperties.unitMesh.transform.forward * playerProperties.movementProperties.movementSpeedBase * playerProperties.movementProperties.movementSpeedMultiplier * 6 * Time.deltaTime, 10f * Time.deltaTime);
-            //GetComponent<CharacterController>().SimpleMove();
             if (waitAfter) {
 
                 if (currentCombo == combo) {
@@ -139,7 +133,6 @@ public class ShieldBash : Ability {
                 }
             }
             playerProperties.movementProperties.slowed = false;
-            //playerProperties.movementProperties.canMove = true;
         }
 
     }
@@ -152,14 +145,14 @@ public class ShieldBash : Ability {
 
         switch (currentCombo) {
             case 1:
-                side = -1;
+                side = -1; // left
                 break;
             case 2:
-                side = 1;
+                side = 1; // right
                 break;
             case 3:
-                side = 1;
-                fwd = true;
+                side = 1; // right
+                fwd = true; // forward
                 break;
 
         }
@@ -174,17 +167,15 @@ public class ShieldBash : Ability {
 
 
     void UseAbilityModified() {
-        //  anim.SetTrigger("ShieldBashModified");
-        findLoc(playerProperties.unitMesh.position + playerProperties.unitMesh.transform.up + playerProperties.unitMesh.transform.forward * attackProperties.range * 2, attackProperties.damage, playerProperties.shieldProperties.shieldActive);
+        DealDamageAtLocation(playerProperties.unitMesh.position + playerProperties.unitMesh.transform.up + playerProperties.unitMesh.transform.forward * attackProperties.range * 2, attackProperties.damage, playerProperties.shieldProperties.shieldActive);
 
     }
 
     void UseAbilityUnModified() {
-        // anim.SetTrigger("ShieldBash");
-        findLoc(playerProperties.unitMesh.position + playerProperties.unitMesh.transform.up + playerProperties.unitMesh.transform.forward * attackProperties.range, attackProperties.damage, playerProperties.shieldProperties.shieldActive);
+        DealDamageAtLocation(playerProperties.unitMesh.position + playerProperties.unitMesh.transform.up + playerProperties.unitMesh.transform.forward * attackProperties.range, attackProperties.damage, playerProperties.shieldProperties.shieldActive);
     }
 
-    private void findLoc(Vector3 location, float damage, bool modified) {
+    private void DealDamageAtLocation(Vector3 location, float damage, bool modified) {
 
         if (GetComponent<EnemyAI>()) {
 
